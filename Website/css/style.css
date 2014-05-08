@@ -1,0 +1,77 @@
+* {
+	margin: 0;  /* bij een margin verplaats je dingen meestal. Stel je hebt een vierkant op je scherm en die wil je naar rechts verschuiven.*/ 
+	padding: 0;  /*bij een padding zorg je er voor dat het element (vierkant) groter of dikker wordt. */ 
+	}
+
+body {
+	background-color: white;
+}
+
+.header {
+	min-height: 50px;
+	width: 980px;
+	overflow: hidden;
+	background-color: #800080;
+	margin: 0 auto; /* je kan ook margin-left: auto; en margin-right: auto;*/
+
+}
+
+.logo {
+	display: block;
+	padding: 10px;
+}
+
+.banner{
+	overflow: hidden;
+	width: 980px;
+	margin: 0 auto;
+}
+.banner img{
+	width: 100%;
+	height: auto;
+}
+.nav-main {
+	overflow: hidden;
+	float: right;
+}
+
+.nav-main ul {
+	display: block;
+
+}
+
+.nav-main ul li {
+	display: block;
+	float: left;
+}
+
+.nav-main ul li a {
+	display: block;
+	text-decoration: none; /*haalt het streepje onder de link vandaan*/
+	color: #B8B8B8;
+	padding: 10px 30px; /*top right bottom left*/ 
+	margin: 0 auto;
+}
+
+.main {
+	min-height: 400px;
+	width: 980px;
+	overflow: hidden;
+	background-color: #DDA0DD;
+	margin: 0 auto;
+}
+
+.article {
+	color: blue;
+	font-family: Georgia, serif;
+	font-size: 90%;
+}
+
+.footer {
+	min-height: 100px;
+	width: 980px;
+	overflow: hidden;
+	background-color: #800080;
+	margin: 0 auto;
+	padding: 0 auto;
+}
