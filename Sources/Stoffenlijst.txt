@@ -1,0 +1,1473 @@
+ABAMECTIN	71751-41-2		
+ACENAPHTHENE	83-32-9		
+ACEPHATE	30560-19-1		
+Acetaldehyde	75-07-0	cancer	April 1, 1988
+Acetamide	60-35-5	cancer	January 1, 1990
+Acetazolamide	59-66-5	developmental	August 20, 1999
+Acetic acid, lead salt, basic	51404-69-4	Toxic for reproduction (Article 57 c)	19-12-2012
+Acetochlor	34256-82-1	cancer	January 1, 1989
+Acetohydroxamic acid	546-88-3	developmental	April 1, 1990
+ACETONE	67-64-1		
+ACETONITRILE	75-05-8		
+ACETOPHENONE	98-86-2		
+ACETYLSALICYLIC ACID	50-78-2		
+Acids generated from chromium trioxide and their oligomers. Names of the acids and their oligomers: Chromic acid, Dichromic acid, Oligomers of chromic acid and dichromic acid.	7738-94-5, 13530-68-2	Carcinogenic (article 57a)	15-12-2010
+Acifluorfen sodium	62476-59-9	cancer	January 1, 1990
+ACIFLUORFEN, SODIUM SALT	62476-59-9		
+ACROLEIN	107-02-8		
+ACROLEIN	0107-02-8		
+Acrylamide	79-06-1	cancer	January 1, 1990
+ACRYLIC ACID	79-10-7		
+Acrylonitrile	107-13-1	cancer	July 1, 1987
+ACRYLONITRILE	0107-13-1		
+Actinomycin D	50-76-0	cancer, developmental	October 1, 1989
+ADRIAMYCIN	23214-92-8		
+AF-2; [2-(2-FURYL)-3-(5-NITRO-2-FURYL)]ACRYLAMIDE	3688-53-7		
+AF-2;[2-(2-furyl)-3-(5-nitro-2-furyl)]acrylamide	3688-53-7	cancer	July 1, 1987
+Aflatoxins	---	cancer	January 1, 1988
+Alachlor	15972-60-8	cancer	January 1, 1989
+Alcoholic beverages, when associated with alcohol abuse	---	cancer	July 1, 1988
+ALDICARB	116-06-3		
+Aldrin	309-00-2	cancer	July 1, 1988
+ALDRIN	0309--2		
+Alkanes, C10-13, chloro (Short Chain Chlorinated Paraffins)	85535-84-8	PBT and vPvB (articles 57 d and 57 e)	28-10-2008
+ALKYL LEAD COMPOUNDS	EDF-171		
+All-trans retinoic acid	302-79-4	developmental	January 1, 1989
+ALLYL ALCOHOL	107-18-6		
+ALLYL AMINE	107-11-9		
+ALLYL CHLORIDE	107-05-1		
+ALPHA-CHLORDENE	056534-02-2		
+ALPHA-LINDANE	319-84-6		
+ALPHA-NAPHTHYLAMINE	134-32-7		
+Alprazolam	28981-97-7	developmental	July 1, 1990
+Altretamine	645-05-6	developmental, male	August 20, 1999
+Aluminosilicate Refractory Ceramic Fibres <i>are fibres covered by index number 650-017-00-8 in Annex VI, part 3, table 3.1 of Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, and fulfil the three following conditions: a) oxides of aluminium and silicon are the main components present (in the fibres) within variable concentration ranges b) fibres have a length weighted geometric mean diameter less two standard geometric errors of 6 or less micrometres (Âµm) c) alkaline oxide and alkali earth oxide (Na2O+K2O+CaO+MgO+BaO) content less or equal to 18% by weight</i>	-	Carcinogenic (article 57 a)	19-12-2011
+ALUMINUM	7429-90-5		
+ALUMINUM CHLORIDE	7446-70-0		
+ALUMINUM OXIDE (FIBROUS FORMS)	1344-28-1		
+ALUMINUM PHOSPHIDE	20859-73-8		
+Amantadine hydrochloride	665-66-7	developmental	February 27, 2001
+AMERICIUM-241	086954-36-1		
+AMETRYN	834-12-8		
+Amikacin sulfate	39831-55-5	developmental	July 1, 1990
+Aminoglutethimide	125-84-8	developmental	July 1, 1990
+Aminoglycosides	---	developmental	October 1, 1992
+Aminopterin	54-62-6	developmental, female	July 1, 1987
+Amiodarone hydrochloride	19774-82-4	developmental, female, male	August 26, 1997
+Amitraz	33089-61-1	developmental	March 30, 1999
+Amitrole	61-82-5	cancer	July 1, 1987
+AMMONIA	7664-41-7		
+Ammonium dichromate	5-9-7789	Carcinogenic, mutagenic and toxic for reproduction (articles 57 a, 57 b and 57 c)	18-6-2010
+Ammonium pentadecafluorooctanoate (APFO)	3825-26-1	Toxic for reproduction (Article 57 c); <br/>PBT (Article 57 d)	20-6-2013
+AMOSITE ASBESTOS	012172-73-5		
+Amoxapine	14028-44-5	developmental	May 15, 1998
+Amsacrine	51264-14-3	cancer	August 7, 2009
+Anabolic steroids	---	female, male	April 1, 1990
+ANABOLIC STEROIDS	EDF-006		
+Analgesic mixtures containing phenacetin	---	cancer	February 27, 1987
+Androstenedione	27208-37-3	cancer	May 3, 2011
+Angiotensin converting enzyme (ACE) inhibitors	---	developmental	October 1, 1992
+ANILAZINE	101-05-3		
+Aniline	62-53-3	cancer	January 1, 1990
+Aniline hydrochloride	142-04-1	cancer	May 15, 1998
+Anisindione	117-37-3	developmental	October 1, 1992
+ANTHRACENE	120-12-7		
+Anthracene oil	90640-80-5	Carcinogenic<sup>1</sup>, PBT and vPvB (articles 57a, 57d and 57e)	13-1-2010
+Anthracene oil, anthracene paste	90640-81-6	Carcinogenic<sup>2</sup>, mutagenic<sup>3</sup>, PBT and vPvB (articles 57a, 57b, 57d and 57e)	13-1-2010
+Anthracene oil, anthracene paste, anthracene fraction	91995-15-2	Carcinogenic<sup>2</sup>, mutagenic<sup>3</sup>, PBT and vPvB (articles 57a, 57b, 57d and 57e)	13-1-2010
+Anthracene oil, anthracene paste,distn. lights	91995-17-4	Carcinogenic<sup>2</sup>, mutagenic<sup>3</sup>, PBT and vPvB (articles 57a, 57b, 57d and 57e)	13-1-2010
+Anthracene oil, anthracene-low	90640-82-7	Carcinogenic<sup>2</sup>, mutagenic<sup>3</sup>, PBT and vPvB (articles 57a, 57b, 57d and 57e)	13-1-2010
+Anthraquinone	84-65-1	cancer	September 28, 2007
+ANTIMONY	7440-36-0		
+ANTIMONY COMPOUNDS	ADQ500		
+Antimony oxide (Antimony trioxide)	1309-64-4	cancer	October 1, 1990
+Aramite	140-57-8	cancer	July 1, 1987
+Areca nut	---	cancer	February 3, 2006
+Aristolochic acids	---	cancer	July 9, 2004
+AROCLOR	012767-79-2		
+AROCLOR 1016	012674-11-2		
+AROCLOR 1221	011104-28-2		
+AROCLOR 1232	011141-16-5		
+AROCLOR 1240	071328-89-7		
+AROCLOR 1242	53469-21-9		
+AROCLOR 1242	053469-21-9		
+AROCLOR 1248	012672-29-6		
+AROCLOR 1254	11097-69-1		
+AROCLOR 1254	011097-69-1		
+AROCLOR 1260	011096-82-5		
+AROCLOR 1268	0111-14-4		
+ARSENIC	7440-38-2		
+Arsenic (inorganic arsenic compounds)	--	cancer	February 27, 1987
+Arsenic (inorganic oxides)	---	developmental	May 1, 1997
+ARSENIC (ORGANIC OR INORGANIC COMPOUNDS)	ARF750		
+ARSENIC ACID	7778-39-4		
+ARSENIC TRIOXIDE	1327-53-3		
+ARSINE	7784-42-1		
+Asbestos	1332-21-4	cancer	February 27, 1987
+ASBESTOS (FRIABLE)	1332-21-4		
+Aspirin	50-78-2	developmental, female	July 1, 1990
+Atenolol	29122-68-7	developmental	August 26, 1997
+ATRAZINE	1912-24-9		
+Auramine	492-80-8	cancer	July 1, 1987
+Auranofin	34031-32-8	developmental	January 29, 1999
+Avermectin B1 (Abamectin)	71751-41-2	developmental	December 3, 2010
+Azacitidine	320-67-2	cancer	January 1, 1992
+Azaserine	115-02-6	cancer	July 1, 1987
+Azathioprine	446-86-6	cancer	February 27, 1987
+AZINPHOS-METHYL	86-50-0		
+Azobenzene	103-33-3	cancer	January 1, 1990
+Barbiturates	---	developmental	October 1, 1992
+BARIUM	7440-39-3		
+BARIUM COMPOUNDS	BAK500		
+Beclomethasone dipropionate	5534-09-8	developmental	May 15, 1998
+BENDIOCARB	22781-23-3		
+BENFLURALIN	1861-40-1		
+Benomyl	17804-35-2	developmental, male	July 1, 1991
+Benthiavalicarb-isopropyl	177406-68-7	cancer	July 1, 2008
+BENZ(A)ANTHRACENE	56-55-3		
+Benz[a]anthracene	56-55-3	cancer	July 1, 1987
+BENZAL CHLORIDE	98-87-3		
+BENZAMIDE	55-21-0		
+Benzene	71-43-2	cancer	February 27, 1987
+BENZENE-1,3-DIISOCYANATE	123-61-5		
+BENZIDINE	92-87-5		
+Benzidine [and its salts]	92-87-5	cancer	February 27, 1987
+Benzidine-based dyes	---	cancer	October 1, 1992
+BENZO(A)ANTHRACENE	56-55-3		
+BENZO(A)PYRENE	50-32-8		
+BENZO(B)FLUORANTHENE	205-99-2		
+BENZO(B)FLUORANTHENE	0205-99-2		
+BENZO(GHI)PERYLENE	191-24-2		
+BENZO(K)FLUORANTHENE	207-08-9		
+BENZO(K)FLUORANTHENE	0207-08-9		
+Benzo[a]pyrene	50-32-8	cancer	July 1, 1987
+Benzo[b]fluoranthene	205-99-2	cancer	July 1, 1987
+Benzo[j]fluoranthene	205-82-3	cancer	July 1, 1987
+Benzo[k]fluoranthene	207-08-9	cancer	July 1, 1987
+Benzodiazepines	---	developmental	October 1, 1992
+BENZOFLUORANTHENE	056832-73-6		
+Benzofuran	271-89-6	cancer	October 1, 1990
+BENZOIC TRICHLORIDE	98-07-7		
+Benzophenone	119-61-9	cancer	June 22, 2012
+BENZOPYRENE	073467-76-2		
+Benzotrichloride	98-07-7	cancer	July 1, 1987
+BENZOYL CHLORIDE	98-88-4		
+BENZOYL PEROXIDE	94-36-0		
+Benzphetamine hydrochloride	5411-22-3	developmental	April 1, 1990
+BENZYL BUTYL PHTHALATE	85-68-7		
+Benzyl butyl phthalate (BBP)	85-68-7	Toxic for reproduction (article 57c)	28-10-2008
+Benzyl chloride	100-44-7	cancer	January 1, 1990
+Benzyl violet 4B	1694-09-3	cancer	July 1, 1987
+BERYLLIUM	7440-41-7		
+Beryllium and beryllium compounds	---	cancer	October 1, 1987
+BERYLLIUM COMPOUNDS	BFQ500		
+beta-Butyrolactone	3068-88-0	cancer	July 1, 1987
+BETA-LINDANE	319-85-7		
+beta-Propiolactone	57-57-8	cancer	January 1, 1988
+Betel quid with tobacco	---	cancer	January 1, 1990
+Betel quid without tobacco	---	cancer	February 3, 2006
+BIFENTHRIN	82657-04-3		
+BIPHENYL	92-52-4		
+Biphenyl-4-ylamine	92-67-1	Carcinogenic (Article 57a)	19-12-2012
+Bis (2-ethylhexyl)phthalate (DEHP)	117-81-7	Toxic for reproduction (article 57c)	28-10-2008
+BIS(2-CHLORO-1-METHYLETHYL) ETHER	108-60-1		
+Bis(2-chloro-1-methylethyl)ether, technical grade	---	cancer	October 29, 1999
+BIS(2-CHLOROETHOXY)METHANE	111-91-1		
+BIS(2-CHLOROETHYL) ETHER	111-44-4		
+BIS(2-CHLOROETHYL) ETHER	0111-44-4		
+Bis(2-chloroethyl)ether	111-44-4	cancer	April 1, 1988
+BIS(2-ETHYLHEXYL)ADIPATE	0103-23-1		
+BIS(2-ETHYLHEXYL)PHTHALATE	117-81-7		
+Bis(2-methoxyethyl) ether	111-96-6	Toxic for reproduction (article 57 c)	19-12-2011
+Bis(2-methoxyethyl) phthalate	117-82-8	Toxic for reproduction (article 57 c)	19-12-2011
+BIS(CHLOROMETHYL) ETHER	542-88-1		
+Bis(chloromethyl)ether	542-88-1	cancer	February 27, 1987
+Bis(pentabromophenyl) ether (decabromodiphenyl ether; DecaBDE)	1163-19-5	PBT (Article 57 d); vPvB (Article 57 e)	19-12-2012
+BIS(TRIBUTYLTIN) OXIDE	56-35-9		
+Bis(tributyltin)oxide (TBTO)	56-35-9	PBT (article 57d)	28-10-2008
+Bischloroethyl nitrosourea (BCNU)(Carmustine)	154-93-8	cancer	July 1, 1987
+Bitumens, extracts of steam-refined and air refined	---	cancer	January 1, 1990
+BORIC ACID	10043-35-3		
+Boric acid	10043-35-3, 11113-50-1	Toxic for reproduction (article 57 c)	18-6-2010
+BORON TRICHLORIDE	10294-34-5		
+BORON TRIFLUORIDE	2095581		
+Bracken fern	---	cancer	January 1, 1990
+BROMACIL	314-40-9		
+Bromacil lithium salt	53404-19-6	developmental	May 18, 1999
+BROMACIL LITHIUM SALT (2,4(H,3H)-PYRIMIDINEDIONE, ETHYL-3 (1-METHYLPROPYL), LITHIUM SALT)	53404-19-6		
+Bromate	15541-45-4	cancer	May 31, 2002
+BROMINE	7726-95-6		
+Bromochloroacetic acid	5589-96-8	cancer	April 6, 2010
+BROMOCHLORODIFLUOROMETHANE	353-59-3		
+BROMODICHLOROETHANE	0683-53-4		
+Bromodichloromethane	75-27-4	cancer	January 1, 1990
+Bromoethane	74-96-4	cancer	December 22, 2000
+Bromoform	75-25-2	cancer	April 1, 1991
+BROMOTRIFLUOROMETHANE	75-63-8		
+Bromoxynil	1689-84-5	developmental	October 1, 1990
+Bromoxynil octanoate	1689-99-2	developmental	May 18, 1999
+BRUCINE	357-57-3		
+Butabarbital sodium	143-81-7	developmental	October 1, 1992
+BUTYL ACRYLATE	141-32-2		
+BUTYL BENZYL PHTHALATE	85-68-7		
+Butyl benzyl phthalate (BBP)	85-68-7	developmental	December 2, 2005
+Butyl methyl phthalate	0346-76-3		
+BUTYLATE	28-41-5		
+Butylated hydroxyanisole	25013-16-5	cancer	January 1, 1990
+BUTYRALDEHYDE	123-72-8		
+C.I. ACID GREEN 3	4680-78-8		
+C.I. Acid Red 114	6459-94-5	cancer	July 1, 1992
+C.I. BASIC GREEN 4	569-64-2		
+C.I. BASIC RED 1	989-38-8		
+C.I. Basic Red 9 monohydrochloride	569-61-9	cancer	July 1, 1989
+C.I. Direct Blue 15	2429-74-5	cancer	August 26, 1997
+C.I. Direct Blue 218	28407-37-6	cancer	August 26, 1997
+C.I. DIRECT BROWN 95	16071-86-6		
+C.I. Disperse Yellow 3	2832-40-8	cancer	February 8, 2013
+C.I. FOOD RED 15	81-88-9		
+C.I. FOOD RED 5	3761-53-3		
+C.I. SOLVENT ORANGE 7	3118-97-6		
+C.I. Solvent Yellow 14	842-07-9	cancer	May 15, 1998
+C.I. SOLVENT YELLOW 3	97-56-3		
+C.I. VAT YELLOW 4	128-66-5		
+Cacodylic acid	75-60-5	cancer	May 1, 1996
+Cadmium	---	developmental, male	May 1, 1997
+CADMIUM	7440-43-9		
+Cadmium and cadmium compounds	---	cancer	October 1, 1987
+CADMIUM COMPOUNDS	CAE750		
+Cadmium oxide	1306-19-0	Carcinogenic (Article 57a); Equivalent level of concern having probable serious effects to human health (Article 57 f)	20-6-2013
+Cadmium sulphide	1306-23-6	Carcinogenic (Article 57a); 
+Equivalent level of concern having probable serious effects to human health (Article 57 f)	16-12-2013
+Caffeic acid	331-39-5	cancer	October 1, 1994
+Calcium arsenate	7778-44-1	Carcinogenic (article 57 a)	19-12-2011
+CALCIUM CYANAMIDE	156-62-7		
+CAMPHECHLOR	8001-35-2		
+Captafol	2425-06-1	cancer	October 1, 1988
+Captan	133-06-2	cancer	January 1, 1990
+Carbamazepine	298-46-4	developmental	January 29, 1999
+Carbaryl	63-25-2	cancer	February 5, 2010
+Carbazole	86-74-8	cancer	May 1, 1996
+CARBOFURAN	1563-66-2		
+Carbon black (airborne, unbound particles of respirable size)	1333-86-4	cancer	February 21, 2003
+CARBON DIOXIDE	124-38-9		
+Carbon disulfide	75-15-0	developmental, female, male	July 1, 1989
+Carbon monoxide	630-08-0	developmental	July 1, 1989
+CARBON MONOXIDE	0630-08-0		
+Carbon tetrachloride	56-23-5	cancer	October 1, 1987
+Carbon-black extracts	---	cancer	January 1, 1990
+CARBONYL SULFIDE	463-58-1		
+CARBOPHENOTHION	0786-19-6		
+Carboplatin	41575-94-4	developmental	July 1, 1990
+CARBOXIN	5234-68-4		
+Catechol	120-80-9	cancer	July 15, 2003
+Ceramic fibers (airborne particles of respirable size)	---	cancer	July 1, 1990
+Certain combined chemotherapy for lymphomas	---	cancer	February 27, 1987
+CESIUM-137	0145-97-3		
+Chenodiol	474-25-9	developmental	April 1, 1990
+CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX	196869		
+Chloral	75-87-6	cancer	September 13, 2013
+Chloral hydrate	302-17-0	cancer	September 13, 2013
+CHLORAMBEN	133-90-4		
+Chlorambucil	305-03-3	cancer	February 27, 1987
+Chloramphenicol sodium succinate	982-57-0	cancer	September 27, 2013
+CHLORATE	EDF-204		
+Chlorcyclizine hydrochloride	1620-21-9	developmental	July 1, 1987
+Chlordane	57-74-9	cancer	July 1, 1988
+CHLORDANE, TECHNICAL	012789-03-6		
+CHLORDECONE	0143-50-0		
+Chlordecone (Kepone)	143-50-0	cancer	January 1, 1988
+Chlordiazepoxide	58-25-3	developmental	January 1, 1992
+Chlordiazepoxide hydrochloride	438-41-5	developmental	January 1, 1992
+Chlordimeform	6164-98-3	cancer	January 1, 1989
+Chlorendic acid	115-28-6	cancer	July 1, 1989
+CHLORHYDRIN	96-24-2		
+CHLORIMURON ETHYL	90982-32-4		
+Chlorinated paraffins 	108171-26-2	cancer	July 1, 1989
+CHLORINE	7782-50-5		
+CHLORINE DIOXIDE	10049-04-4		
+CHLORITE	EDF-205		
+CHLOROACETIC ACID	79-11-8		
+CHLOROBENZENE	108-90-7		
+CHLOROBENZENE	0108-90-7		
+CHLOROBENZILATE	510-15-6		
+CHLORODIFLUOROMETHANE	75-45-6		
+CHLOROETHANE	75-00-3		
+Chloroethane (Ethyl chloride)	75-00-3	cancer	July 1, 1990
+Chloroform	67-66-3	cancer	October 1, 1987
+CHLOROMETHANE	74-87-3		
+CHLOROMETHYL METHYL ETHER	107-30-2		
+Chloromethyl methyl ether (technical grade)	107-30-2	cancer	February 27, 1987
+CHLOROPHENOLS	25167-80-0		
+CHLOROPICRIN	76-06-2		
+Chloroprene	126-99-8	cancer	June 2, 2000
+CHLOROTETRAFLUOROETHANE	63938-10-3		
+Chlorothalonil	1897-45-6	cancer	January 1, 1989
+Chlorotrianisene	569-57-3	cancer	September 1, 1996
+CHLOROTRIFLUOROMETHANE	75-72-9		
+Chlorozotocin	54749-90-5	cancer	January 1, 1992
+CHLORPYRIFOS	2921-88-2		
+CHLORPYRIFOS METHYL	5598-13-0		
+Chlorsulfuron	64902-72-3	developmental, female	May 14, 1999
+Chromic Acid	7738-94-5		
+CHROMIUM	7440-47-3		
+Chromium (hexavalent compounds)	---	cancer	February 27, 1987
+CHROMIUM COMPOUNDS	CMJ500		
+CHROMIUM LEAD SILICATE	11113-70-5		
+Chromium trioxide	1333-82-0	Carcinogenic and mutagenic (articles 57 a and 57 b)	15-12-2010
+CHROMIUM(VI) TRIOXIDE	1333-82-0		
+CHROMIUM, HEXAVALENT	018540-29-9		
+Chrysene	218-01-9	cancer	January 1, 1990
+CHRYSENE	0218-01-9		
+CHRYSOTILE ASBESTOS	0121-29-5		
+Ciclosporin (Cyclosporin A; Cyclosporine)	59865-13-3	cancer	January 1, 1992
+Cidofovir	113852-37-2	cancer, developmental, female, male	January 29, 1999
+Cinnamyl anthranilate	87-29-6	cancer	July 1, 1989
+CIS-CHLORDANE	5103-71-9		
+Cisplatin	15663-27-1	cancer	October 1, 1988
+Citrus Red No. 2	6358-53-8	cancer	October 1, 1989
+Cladribine	4291-63-8	developmental	September 1, 1996
+Clarithromycin	81103-11-9	developmental	May 1, 1997
+Clobetasol propionate	25122-46-7	developmental, female	May 15, 1998
+Clofibrate	637-07-0	cancer	September 1, 1996
+Clomiphene citrate	50-41-9	cancer	May 24, 2013
+Clorazepate dipotassium	57109-90-7	developmental	October 1, 1992
+COAL TAR CREOSOTE	81-58-9		
+COAL TAR PITCH	065996-93-2		
+COAL TARS	87-45-2		
+COBALT	7440-48-4		
+Cobalt [II] oxide	1307-96-6	cancer	July 1, 1992
+COBALT COMPOUNDS	CNB850		
+Cobalt dichloride	7646-79-9	Carcinogenic and toxic for reproduction (articles 57 a and 57 c)	2011/06/20 - 2008/10/28
+Cobalt metal powder	7440-48-4	cancer	July 1, 1992
+Cobalt sulfate	10124-43-3	cancer	May 20, 2005
+Cobalt sulfate heptahydrate	10026-24-1	cancer	June 2, 2000
+Cobalt(II) carbonate	513-79-1	Carcinogenic and toxic for reproduction (articles 57 a and 57 c)	15-12-2010
+Cobalt(II) diacetate	71-48-7	Carcinogenic and toxic for reproduction (articles 57 a and 57 c)	15-12-2010
+Cobalt(II) dinitrate	10141-05-6	Carcinogenic and toxic for reproduction (articles 57 a and 57 c)	15-12-2010
+Cobalt(II) sulphate	10124-43-3	Carcinogenic and toxic for reproduction (articles 57 a and 57 c)	15-12-2010
+Cocaine	50-36-2	developmental, female	July 1, 1989
+Coconut oil diethanolamine condensate (cocamide diethanolamine)	---	cancer	June 22, 2012
+Codeine phosphate	52-28-8	developmental	May 15, 1998
+Coke oven emissions	---	cancer	February 27, 1987
+Colchicine	64-86-8	developmental, male	October 1, 1992
+Conjugated estrogens	---	cancer	February 27, 1987
+COPPER	7440-50-8		
+COPPER COMPOUNDS	CNK750		
+Creosotes	---	cancer	October 1, 1988
+CREOSOTES	8001-58-9		
+CRESOL (MIXED ISOMERS)	1319-77-3		
+CRESOL, ORTHO-	95-48-7		
+CRESOL, PARA-	0106-44-5		
+CRESOLS	1319-77-3		
+CROTONALDEHYDE	4170-30-3		
+Cumene	98-82-8	cancer	April 6, 2010
+CUMENE HYDROPEROXIDE	80-15-9		
+Cupferron	135-20-6	cancer	January 1, 1988
+Cyanazine	21725-46-2	developmental	April 1, 1990
+CYANIDE	57-12-5		
+CYANIDE COMPOUNDS	1073		
+Cycasin	14901-08-7	cancer	January 1, 1988
+Cycloate	1134-23-2	developmental	March 19, 1999
+CYCLO-DI-:-OXO(:-PHTHALATO)TRILEAD	17976-43-1		
+CYCLOHEXANE	110-82-7		
+Cyclohexane-1,2-dicarboxylic anhydride [1],  cis-cyclohexane-1,2-dicarboxylic anhydride [2],  trans-cyclohexane-1,2-dicarboxylic anhydride [3] <i>[The individual cis- [2] and trans- [3] isomer substances and all possible combinations of the cis- and trans-isomers [1] are covered by this entry]</i>	85-42-7, 13149-00-3, 14166-21-3	Equivalent level of concern having probable serious effects to human health (Article 57 f)	19-12-2012
+CYCLOHEXANOL	108-93-0		
+Cycloheximide	66-81-9	developmental	January 1, 1989
+CYCLOHEXYLAMINE	108-91-8		
+CYCLONITE	121-82-4		
+Cyclopenta[cd]pyrene	27208-37-3	cancer	April 29, 2011
+CYCLOPHOSPHAMIDE	50-18-0		
+Cyclophosphamide (anhydrous)	50-18-0	cancer	February 27, 1987
+Cyclophosphamide (hydrated)	6055-19-2	cancer	February 27, 1987
+CYFLUTHRIN	68359-37-5		
+CYHALOTHRIN	68085-85-8		
+Cyhexatin	13121-70-5	developmental	January 1, 1989
+CYPERMETHRIN	52315-07-8		
+Cytarabine	147-94-4	developmental	January 1, 1989
+Cytembena	21739-91-3	cancer	May 15, 1998
+D&C Orange No. 17	3468-63-1	cancer	July 1, 1990
+D&C Red No. 19	81-88-9	cancer	July 1, 1990
+D&C Red No. 8	2092-56-0	cancer	October 1, 1990
+D&C Red No. 9	5160-02-1	cancer	July 1, 1990
+Dacarbazine	4342-03-4	cancer	January 1, 1988
+Daminozide	1596-84-5	cancer	January 1, 1990
+Danazol	17230-88-5	developmental	April 1, 1990
+Dantron (Chrysazin; 1,8-Dihydroxyanthraquinone)	117-10-2	cancer	January 1, 1992
+Daunomycin 	20830-81-3	cancer	January 1, 1988
+Daunorubicin hydrochloride	23541-50-6	developmental, male	July 1, 1990
+DAZOMET	533-74-4		
+DAZOMET, SODIUM SALT	53404-60-7		
+DDD (Dichlorodiphenyl-dichloroethane)	72-54-8	cancer	January 1, 1989
+DDD, O,P'-	53-19-0		
+DDD, P,P'-	72-54-8		
+DDE (Dichlorodi-phenyldichloroethylene)	72-55-9	cancer	January 1, 1989
+DDE, P,P'-	72-55-9		
+DDT	50-29-3		
+DDT (Dichlorodi-phenyltrichloroethane)	50-29-3	cancer	October 1 , 1987
+DDT (TOTAL)	EDF-229		
+DDT, O,P'-	0789-02-6		
+DDT, P,P'-	50-29-3		
+DDVP (Dichlorvos)	62-73-7	cancer	January 1, 1989
+DECABROMODIPHENYL OXIDE	1163-19-5		
+DEET	134-62-3		
+Demeclocycline hydrochloride (internal use)	64-73-3	developmental	January 1, 1992
+DESMEDIPHAM	13684-56-5		
+DI(2-ETHYLHEXYL)PHTHALATE	0117-81-7		
+Di(2-ethylhexyl)phthalate (DEHP)	117-81-7	cancer	January 1, 1988
+DIALLATE	2303-16-4		
+DIAMINOTOLUENE (MIXED ISOMERS)	25376-45-8		
+Diaminotoluene (mixed)	---	cancer	January 1, 1990
+Diarsenic pentaoxide	1303-28-2	Carcinogenic (article 57a)	28-10-2008
+Diarsenic trioxide	1327-53-3	Carcinogenic (article 57a)	28-10-2008
+Diazene-1,2-dicarboxamide (C,C'-azodi(formamide))	123-77-3	Equivalent level of concern having probable serious effects to human health (Article 57 f)	19-12-2012
+Diazepam	439-14-5	developmental	January 1, 1992
+DIAZINON	333-41-5		
+DIAZINON	0333-41-5		
+Diazoaminobenzene	136-35-6	cancer	May 20, 2005
+DIAZOMETHANE	334-88-3		
+Diazoxide	364-98-7	developmental	February 27, 2001
+DIBENZ(A,H)ANTHRACENE	53-70-3		
+Dibenz[a,h]acridine	226-36-8	cancer	January 1, 1988
+Dibenz[a,h]anthracene	53-70-3	cancer	January 1, 1988
+Dibenz[a,j]acridine	224-42-0	cancer	January 1, 1988
+DIBENZO(A,H)ANTHRACENE	53-70-3		
+DIBENZO[A,E]FLUORANTHENE	5385-75-1		
+Dibenzo[a,e]pyrene	192-65-4	cancer	January 1, 1988
+Dibenzo[a,h]pyrene	189-64-0	cancer	January 1, 1988
+Dibenzo[a,i]pyrene	189-55-9	cancer	January 1, 1988
+Dibenzo[a,l]pyrene	191-30-0	cancer	January 1, 1988
+DIBENZOFURAN	132-64-9		
+DIBENZOFURAN	0132-64-9		
+DIBENZOFURANS, CHLORINATED	042934-53-2		
+Diboron trioxide	1303-86-2	Toxic for reproduction (Article 57 c)	18-6-2012
+Dibromoacetic acid	631-64-1	cancer	June 17, 2008
+Dibromoacetonitrile	3252-43-5	cancer	May 3, 2011
+DIBROMOCHLOROMETHANE	0124-48-1		
+DIBROMOCHLOROPROPANE	067708-83-2		
+DIBROMOTETRAFLUOROETHANE [HALON 2402]	124-73-2		
+DIBUTYL PHTHALATE	84-74-2		
+Dibutyl phthalate (DBP)	84-74-2	Toxic for reproduction (article 57c)	28-10-2008
+Dibutyltin dichloride (DBTC)	683-18-1	Toxic for reproduction (Article 57 c)	19-12-2012
+DICAMBA	1918-00-9		
+DICHLORAN	99-30-9		
+DICHLORO-1,1,2-TRIFLUOROETHANE	90454-18-5		
+Dichloroacetic acid	79-43-6	cancer	May 1, 1996
+DICHLOROBENZENE	025321-22-6		
+DICHLOROBENZENE (MIXED ISOMERS)	25321-22-6		
+DICHLOROBROMOMETHANE	75-27-4		
+DICHLORODIFLUOROMETHANE	75-71-8		
+DICHLOROETHANE	13-21-6		
+DICHLOROFLUOROMETHANE	75-43-4		
+DICHLOROMETHANE	75-09-2		
+Dichloromethane (Methylene chloride)	75-09-2	cancer	April 1, 1988
+Dichlorophene	97-23-4	developmental	April 27, 1999
+DICHLOROTETRAFLUOROETHANE (CFC-114)	76-14-2		
+DICHLOROTRIFLUOROETHANE	34077-87-7		
+DICHLORPENTAFLUORO-PROPANE	127564-92-5		
+Dichlorphenamide	120-97-8	developmental	February 27, 2001
+DICHLORVOS	62-73-7		
+Dichromium tris(chromate)	24613-89-6	Carcinogenic (article 57 a)	19-12-2011
+Diclofop methyl	51338-27-3	developmental	March 5, 1999
+Diclofop-methyl	51338-27-3	cancer	April 6, 2010
+DICOFOL	115-32-2		
+DICOFOL	0115-32-2		
+Dicumarol	66-76-2	developmental	October 1, 1992
+DICYCLOPENTADIENE	77-73-6		
+Dieldrin	60-57-1	cancer	July 1, 1988
+Diepoxybutane	1464-53-5	cancer	January 1, 1988
+Diesel engine exhaust	---	cancer	October 1, 1990
+Diethanolamine	111-42-2	cancer	June 22, 2012
+DIETHATYL ETHYL	38727-55-8		
+DIETHYL PHTHALATE	84-66-2		
+Diethyl sulfate	64-67-5	cancer	January 1, 1988
+Diethyl sulphate	64-67-5	Carcinogenic (Article 57a); Mutagenic (Article 57b)	19-12-2012
+DIETHYLDIISOCYANATOBENZENE	134190-37-7		
+DIETHYLENE GLYCOL ETHER	111-46-6		
+DIETHYLENE GLYCOL MONOBUTYL ETHER	112-34-5		
+DIETHYLSTILBESTROL	56-53-1		
+Diethylstilbestrol (DES)	56-53-1	cancer	February 27, 1987
+DIFLUBENZURON	35367-38-5		
+Diflunisal	22494-42-4	developmental, female	January 29, 1999
+Diglycidyl resorcinol ether (DGRE)	101-90-6	cancer	July 1, 1989
+Dihexyl phthalate	84-75-3	Toxic for reproduction (Article 57 c);	16-12-2013
+Dihydroergotamine mesylate	6190-39-2	developmental	May 1, 1997
+Dihydrosafrole	94-58-6	cancer	January 1, 1988
+Diisobutyl phthalate	84-69-5	Toxic for reproduction (article 57c)	13-1-2010
+DIISOCYANATES	EDF-067		
+Di-isodecyl phthalate (DIDP)	68515-49-1/26761-40-0	developmental	April 20, 2007
+Diisononyl phthalate (DINP)	---	cancer	December 20, 2013
+Diisopentylphthalate	605-50-5	Toxic for reproduction (Article 57 c)	19-12-2012
+Diisopropyl sulfate	2973-10-6	cancer	April 1, 1993
+Diltiazem hydrochloride	33286-22-5	developmental	February 27, 2001
+DIMETHIPIN	55290-64-7		
+DIMETHOATE	60-51-5		
+DIMETHYL CHLOROTHIOPHOSPHATE	2524-03-0		
+DIMETHYL FORMAMIDE	68-12-2		
+DIMETHYL PHTHALATE	131-11-3		
+Dimethyl sulfate	77-78-1	cancer	January 1, 1988
+Dimethyl sulphate	77-78-1	Carcinogenic (Article 57a)	19-12-2012
+DIMETHYLAMINE	124-40-3		
+DIMETHYLAMINE DICAMBA	2300-66-5		
+DIMETHYLANILINE	0121-69-7		
+DIMETHYLARSINIC ACID	75-60-5		
+Dimethylcarbamoyl chloride	79-44-7	cancer	January 1, 1988
+Dimethylvinylchloride	513-37-1	cancer	July 1, 1989
+DI-N-BUTYL PHTHALATE	84-74-2		
+Di-n-butyl phthalate (DBP)	84-74-2	developmental, female, male	December 2, 2005
+Di-n-hexyl phthalate (DnHP)	84-75-3	female, male	December 2, 2005
+DI-N-HEXYLPHTHALATE	84-75-3		
+DINITROBENZENE	25154-54-5		
+DINITROBUTYL PHENOL	88-85-7		
+DINITROTOLUENE	025321-14-6		
+DINITROTOLUENE (MIXED ISOMERS)	25321-14-6		
+Dinitrotoluene (technical grade)	---	female, male	August 20, 1999
+Dinitrotoluene mixture, 2,4-/2,6-	---	cancer	May 1, 1996
+Dinocap	39300-45-3	developmental	April 1, 1990
+Dinoseb	88-85-7	developmental, male	January 1, 1989
+Dinoseb (6-sec-butyl-2,4-dinitrophenol)	88-85-7	Toxic for reproduction (Article 57 c)	19-12-2012
+DI-N-PENTYL PHTHALATE	131-18-0		
+Di-n-propyl isocinchomeronate (MGK Repellent 326)	136-45-8	cancer	May 1, 1996
+DI-N-PROPYLNITROSAMINE	621-64-7		
+DIOXIN AND DIOXIN-LIKE COMPOUNDS	EDF-018		
+Dioxobis(stearato)trilead	12578-12-0	Toxic for reproduction (Article 57 c)	19-12-2012
+Dipentyl phthalate (DPP)	131-18-0	Toxic for reproduction (Article 57 c);	20-6-2013
+DIPHENAMID	957-51-7		
+DIPHENYLAMINE	122-39-4		
+Diphenylhydantoin (Phenytoin)	57-41-0	cancer	January 1, 1988
+Diphenylhydantoin (Phenytoin), sodium salt	630-93-3	cancer	January 1, 1988
+DIPOTASSIUM ENDOTHALL	2164-07-0		
+DIPROPYL ISOCINCHOMERONATE	136-45-8		
+DIPROPYL PHTHALATE	131-16-8		
+DIPROPYLENE GLYCOL MONOMETHYL ETHER	34590-94-8		
+DIRECT BLACK 38	1937-37-7		
+Direct Black 38 (technical grade)	1937-37-7	cancer	January 1, 1988
+DIRECT BLUE 6	2602-46-2		
+Direct Blue 6 (technical grade)	2602-46-2	cancer	January 1, 1988
+Direct Brown 95 (technical grade)	16071-86-6	cancer	October 1, 1988
+Disodium 3,3'-[[1,1'-biphenyl]-4,4'-diylbis(azo)]bis(4-aminonaphthalene-1-sulphonate) (C.I. Direct Red 28)	573-58-0	Carcinogenic (Article 57a);	16-12-2013
+Disodium 4-amino-3-[[4'-[(2,4-diaminophenyl)azo][1,1'-biphenyl]-4-yl]azo] -5-hydroxy-6-(phenylazo)naphthalene-2,7-disulphonate (C.I. Direct Black 38)	1937-37-7	Carcinogenic (Article 57a);	16-12-2013
+DISODIUM CYANODITHIOIMIDOCARBONATE	138-93-2		
+Disodium cyanodithioimido-carbonate	138-93-2	developmental	March 30, 1999
+Disodium tetraborate, anhydrous	1303-96-4, 1330-43-4, 12179-04-3	Toxic for reproduction (article 57 c)	18-6-2010
+Disperse Blue 1	2475-45-8	cancer	October 1, 1990
+DISULFOTON	0298-04-4		
+DITHIOBIURET	541-53-7		
+Diuron	330-54-1	cancer	May 31, 2002
+DIURON	0330-54-1		
+DODINE	197143		
+Doxorubicin hydrochloride (Adriamycin)	25316-40-9	cancer	July 1, 1987
+Doxycycline (internal use)	564-25-0	developmental	July 1, 1990
+Doxycycline calcium (internal use)	94088-85-4	developmental	January 1, 1992
+Doxycycline hyclate (internal use)	24390-14-5	developmental	October 1, 1991
+Doxycycline monohydrate (internal use)	17086-28-1	developmental	October 1, 1991
+D-TRANS-ALLETHRIN	28057-48-9		
+Emissions from combustion of coal	---	cancer	August 7, 2013
+Emissions from high-temperature unrefined rapeseed oil	---	cancer	January 3, 2014
+ENDOSULFAN	0115-29-7		
+ENDOSULFAN SULFATE	1031-07-8		
+ENDOSULFAN, ALPHA	0959-98-8		
+ENDOSULFAN, BETA	033213-65-9		
+Endrin	72-20-8	developmental	May 15, 1998
+ENDRIN ALDEHYDE	7421-93-4		
+ENDRIN KETONE	053494-70-5		
+ENFLURANE	13838-16-9		
+Environmental tobacco smoke (ETS)	---	developmental	June 9, 2006
+Epichlorohydrin	106-89-8	cancer	October 1, 1987
+Epoxiconazole	135319-73-2	cancer	April 15, 2011
+ERGOCALCIFEROL	50-14-6		
+Ergotamine tartrate	379-79-3	developmental	April 1, 1990
+Erionite	12510-42-8/66733-21-9	cancer	October 1, 1988
+Estradiol 17B	50-28-2	cancer	January 1, 1988
+Estragole	140-67-0	cancer	October 29, 1999
+Estrogen-progestogen (combined) as menopausal therapy	---	cancer	November 4, 2011
+Estrogens, steroidal	---	cancer	August 19, 2005
+Estrone	53-16-7	cancer	January 1, 1988
+Estropipate	7280-37-7	cancer, developmental	August 26, 1997
+ETHANOL	64-17-5		
+Ethanol in alcoholic beverages	---	cancer	April 29, 2011
+ETHIDIUM BROMIDE	1239-45-8		
+Ethinylestradiol	57-63-6	cancer	January 1, 1988
+ETHION	0563-12-2		
+Ethionamide	536-33-4	developmental	August 26, 1997
+Ethoprop	13194-48-4	cancer	February 27, 2001
+ETHOPROP	013194-48-4		
+ETHOXYACETIC ACID	627-03-2		
+Ethyl acrylate	140-88-5	cancer	July 1, 1989
+Ethyl alcohol in alcoholic beverages	---	developmental	October 1, 1987
+ETHYL CHLOROFORMATE	541-41-3		
+Ethyl dipropylthiocarbamate	759-94-4	developmental	April 27, 1999
+ETHYL ETHER	60-29-7		
+Ethyl methanesulfonate	62-50-0	cancer	January 1, 1988
+Ethyl-4,4’-dichlorobenzilate	510-15-6	cancer	January 1, 1990
+Ethylbenzene	100-41-4	cancer	June 11, 2004
+ETHYLBENZENE	01-41-4		
+ETHYLENE	74-85-1		
+Ethylene dibromide	106-93-4	cancer	July 1, 1987
+Ethylene dichloride (1,2-Dichloroethane)	107-06-2	cancer	October 1, 1987
+ETHYLENE GLYCOL	107-21-1		
+ETHYLENE GLYCOL MONOBUTYL ETHER	111-76-2		
+Ethylene glycol monoethyl ether	110-80-5	developmental, male	January 1, 1989
+Ethylene glycol monoethyl ether acetate	111-15-9	developmental, male	January 1, 1993
+Ethylene glycol monomethyl ether	109-86-4	developmental, male	January 1, 1989
+Ethylene glycol monomethyl ether acetate	110-49-6	developmental, male	January 1, 1993
+Ethylene oxide	75-21-8	cancer	July 1, 1987
+Ethylene thiourea	96-45-7	cancer	January 1, 1988
+ETHYLENEBISDITHIOCARBAMIC ACID, SALTS AND ESTERS	111-54-6		
+ETHYLENEIMINE	151-56-4		
+Ethyleneimine (Aziridine)	151-56-4	cancer	January 1, 1988
+Etodolac	41340-25-4	developmental, female	August 20, 1999
+Etoposide	33419-42-0	cancer	November 4, 2011
+Etoposide in combination with cisplatin and bleomycin	---	cancer	November 4, 2011
+Etretinate	54350-48-0	developmental	July 1, 1987
+FAMCICLOVIR	104227-87-4		
+FAMPHUR	52-85-7		
+Fatty acids, C16-18, lead salts	91031-62-8	Toxic for reproduction (Article 57 c)	19-12-2012
+FELODIPINE	72509-76-3		
+FENARIMOL	60168-88-9		
+FENBUTATIN OXIDE	13356-08-6		
+Fenoxaprop ethyl	66441-23-4	developmental	March 26, 1999
+FENOXAPROP ETHYL(2-(4-((6-CHLORO-2-BENZOXAZOLYEN)OXY)PENOXY)PROPANIC ACID,ETHYL ESTER)	66441-23-4		
+Fenoxycarb	72490-01-8	cancer	June 2, 2000
+FENPROPATHRIN	39515-41-8		
+FENTHION	55-38-9		
+FENVALERATE	51630-58-1		
+FERBAM	14484-64-1		
+Filgrastim	121181-53-1	developmental	February 27, 2001
+Fluazifop butyl	69806-50-4	developmental	November 6, 1998
+FLUAZIFOP-BUTYL	69806-50-4		
+Flunisolide	3385-03-3	developmental, female	May 15, 1998
+FLUNISOLIDE	542449		
+FLUOMETURON	2164-17-2		
+FLUORANTHENE	206-44-0		
+FLUORANTHENE	0206-44-0		
+FLUORIDE ION	016984-48-8		
+FLUORINE	7782-41-4		
+FLUOROACETIC ACID, SODIUM SALT	62-74-8		
+Fluorouracil	51-21-8	developmental	January 1, 1989
+FLUOXETINE	54910-89-3		
+FLUOXETINE HYDROCHLORIDE	59333-67-4		
+Fluoxymesterone	76-43-7	developmental	April 1, 1990
+Flurazepam hydrochloride	1172-18-5	developmental	October 1, 1992
+Flurbiprofen	5104-49-4	developmental, female	August 20, 1999
+Flutamide	13311-84-7	developmental	July 1, 1990
+Fluticasone propionate	80474-14-2	developmental	May 15, 1998
+Fluvalinate	69409-94-5	developmental	November 6, 1998
+FLUVASTATIN SODIUM	EDF-004		
+Folpet	133-07-3	cancer	January 1, 1989
+FOMESAFEN	72178-02-0		
+FORMALDEHYDE	50-00-0		
+Formaldehyde (gas)	50-00-0	cancer	January 1, 1988
+Formaldehyde, oligomeric reaction products with aniline	25214-70-4	Carcinogenic (article 57 a)	19-12-2011
+FORMAMIDE	75-12-7		
+FORMIC ACID	64-18-6		
+FREON 113	76-13-1		
+Fumonisin B1	116355-83-0	cancer	November 14, 2003
+Furan	110-00-9	cancer	October 1, 1993
+Furazolidone	67-45-8	cancer	January 1, 1990
+Furmecyclox	60568-05-0	cancer	January 1, 1990
+Fusarin C	79748-81-5	cancer	July 1, 1995
+Gallium arsenide	1303-00-0	cancer	August 1, 2008
+GAMMA-CHLORDENE	056641-38-4		
+GAMMA-LINDANE	58-89-9		
+Ganciclovir	82410-32-0	cancer, developmental, male	August 26, 1997
+Ganciclovir sodium	107910-75-8	developmental, male	August 26, 1997
+GANCICLOVIR SODIUM	82410-32-0		
+Gasoline engine exhaust (condensates/extracts)	---	cancer	October 1, 1990
+GEMFIBORZIL	25812-30-0		
+Gemfibrozil	25812-30-0	cancer	December 22, 2000
+Glass wool fibers (inhalable and biopersistent)	---	cancer	July 1, 1990
+Glu-P-1 (2-Amino-6-methyldipyrido [1,2- a:3’,2’-d]imidazole)	67730-11-4	cancer	January 1, 1990
+Glu-P-2 (2-Aminodipyrido [1,2-a:3’,2’-d]imidazole)	67730-10-3	cancer	January 1, 1990
+GLUTARALDHYDE	111-30-8		
+Glycidaldehyde	765-34-4	cancer	January 1, 1988
+Glycidol	556-52-5	cancer	July 1, 1990
+GLYCIDYL ETHERS	EDF-509		
+GLYCOL ETHERS	EDF-109		
+GLYPHOSATE	1071-83-6		
+Goserelin acetate	65807-02-5	developmental, female, male	August 26, 1997
+GOSSYPOL	303-45-7		
+GOSSYPOL ACETIC ACID	12542-36-8		
+Griseofulvin	126-07-8	cancer	January 1, 1990
+Gyromitrin (Acetaldehyde methylformylhydrazone)	16568-02-8	cancer	January 1, 1988
+Halazepam	23092-17-3	developmental	July 1, 1990
+Halobetasol propionate	66852-54-8	developmental	August 20, 1999
+Haloperidol	52-86-8	developmental, female	January 29, 1999
+Halothane	151-67-7	developmental	September 1, 1996
+HC Blue 1	2784-94-3	cancer	July 1, 1989
+HEAVY METALS	EDF-380		
+Henicosafluoroundecanoic acid	2058-94-8	vPvB (Article 57 e)	19-12-2012
+Heptachlor	76-44-8	cancer	July 1, 1988
+Heptachlor epoxide	1024-57-3	cancer	July 1, 1988
+HEPTACHLORODIBENZOFURAN	038998-75-3		
+HEPTACHLORODIBENZO-P-DIOXIN	037871--4		
+Heptacosafluorotetradecanoic acid	376-06-7	vPvB (Article 57 e)	19-12-2012
+Herbal remedies containing plant species of the genus Aristolochia	---	cancer	July 9, 2004
+Hexabromocyclododecane (HBCDD) and all major diastereoisomers identified: Alpha-hexabromocyclododecane Beta-hexabromocyclododecane Gamma-hexabromocyclododecane	25637-99-4, 3194-55-6 (134237-50-6) (134237-51-7) (134237-52-8)	PBT (article 57d)	28-10-2008
+HEXACHLORINATED DIBENZOFURAN, 1,2,3,4,7,8-	70648-26-9		
+HEXACHLORINATED DIBENZOFURAN, 1,2,3,7,8,9-	72918-21-9		
+HEXACHLORINATED DIBENZOFURAN, 2,3,4,6,7,8-	60851-34-5		
+HEXACHLORO-1,3-BUTADIENE	87-68-3		
+Hexachlorobenzene	118-74-1	cancer	October 1, 1987
+HEXACHLOROBENZENE	0118-74-1		
+Hexachlorobutadiene	87-68-3	cancer	May 3, 2011
+Hexachlorocyclohexane (technical grade)	---	cancer	October 1, 1987
+HEXACHLOROCYCLOHEXANE, ALPHA-	0319-84-6		
+HEXACHLOROCYCLOHEXANE, BETA-	0319-85-7		
+HEXACHLOROCYCLOHEXANE, DELTA-	0319-86-8		
+HEXACHLOROCYCLOHEXANE, TECHNICAL GRADE	0608-73-1		
+HEXACHLOROCYCLOPENTADIENE	77-47-4		
+Hexachlorodibenzodioxin	34465-46-8	cancer	April 1, 1988
+HEXACHLORODIBENZOFURAN	055684-94-1		
+HEXACHLORODIBENZO-P-DIOXIN	034465-46-8		
+Hexachloroethane	67-72-1	cancer	July 1, 1990
+HEXACHLORONAPHTHALENE	1335-87-1		
+HEXACHLOROPHENE (HCP)	70-30-4		
+Hexafluoroacetone	684-16-2	male	August 1, 2008
+Hexahydromethylphthalic anhydride [1],  Hexahydro-4-methylphthalic anhydride [2],  Hexahydro-1-methylphthalic anhydride [3], Hexahydro-3-methylphthalic anhydride  [4] <i>[The individual isomers [2], [3] and [4] (including their cis- and trans- stereo isomeric forms) and all possible combinations of the isomers [1] are covered by this entry]</i>	25550-51-0, 19438-60-9, 48122-14-1, 57110-29-9	Equivalent level of concern having probable serious effects to human health (Article 57 f)	19-12-2012
+HEXAMETHYLENE-1,6-DIISOCYANATE	822-06-0		
+Hexamethylphosphoramide	680-31-9	cancer	January 1, 1988
+HEXAZINONE	51235-04-2		
+Histrelin acetate	---	developmental	May 15, 1998
+Hydramethylnon	67485-29-4	developmental, male	March 5, 1999
+Hydrazine	302-01-2	cancer	January 1, 1988
+HYDRAZINE	0302-01-2		
+Hydrazine	302-01-2, 7803-57-8	Carcinogenic (article 57a)	20-6-2011
+Hydrazine sulfate	10034-93-2	cancer	January 1, 1988
+Hydrazobenzene (1,2-Diphenylhydrazine)	122-66-7	cancer	January 1, 1988
+HYDROCHLORIC ACID	7647-01-0		
+HYDROFLUORIC ACID	7664-39-3		
+HYDROGEN CYANIDE	74-90-8		
+Hydrogen cyanide (HCN) and cyanide salts (CN salts)	---	male	July 5, 2013
+HYDROGEN SULFIDE	2148878		
+HYDROQUINONE	123-31-9		
+Hydroxyurea	127-07-1	developmental	May 1, 1997
+Î±,Î±-Bis[4-(dimethylamino)phenyl]-4 (phenylamino)naphthalene-1-methanol  (C.I. Solvent Blue 4) <em>[with â‰¥ 0.1% of Michler's ketone (EC No. 202-027-5) or Michler's base (EC No. 202-959-2)]</em>	6786-83-0	Carcinogenic (Article 57a)	18-6-2012
+Idarubicin hydrochloride	57852-57-0	developmental, male	August 20, 1999
+Ifosfamide	3778-73-2	developmental	July 1, 1990
+Imazalil	35554-44-0	cancer	May 20, 2011
+Imidazolidine-2-thione; (2-imidazoline-2-thiol)	96-45-7	Toxic for reproduction (Article 57 c);	16-12-2013
+INDENO(1,2,3-CD)PYRENE	193-39-5		
+INDENO(1,2,3-CD)PYRENE	0193-39-5		
+Indeno[1,2,3-cd]pyrene	193-39-5	cancer	January 1, 1988
+INDIUM	7440-74-6		
+Indium phosphide	22398-80-7	cancer	February 27, 2001
+INORGANIC LEAD COMPOUNDS	1128		
+Iodine-131	10043-66-0	developmental	January 1, 1989
+IODINE-131	0143-66-0		
+Iprodione	36734-19-7	cancer	May 1, 1996
+Iprovalicarb	140923-17-7/140923-25-7	cancer	June 1, 2007
+IQ (2-Amino-3-methylimidazo [4,5-f] quinoline)	76180-96-6	cancer	April 1, 1990
+IRON	7439-89-6		
+Iron dextran complex	9004-66-4	cancer	January 1, 1988
+IRON PENTACARBONYL	13463-40-6		
+Isobutyl nitrite	542-56-3	cancer	May 1, 1996
+ISOBUTYRALDEHYDE	78-84-2		
+ISODRIN	465-73-6		
+ISOFENPHOS	25311-71-1		
+ISOPHORONE DIISOCYANATE	4098-71-9		
+Isoprene	78-79-5	cancer	May 1, 1996
+ISOPROPOXYETHANOL	109-59-1		
+ISOPROPYL ALCOHOL	67-63-0		
+Isopyrazam	881685-58-1	cancer	July 24, 2012
+ISOSAFROLE	120-58-1		
+Isotretinoin	4759-48-2	developmental	July 1, 1987
+Isoxaflutole	141112-29-0	cancer	December 22, 2000
+Kresoxim-methyl	143390-89-0	cancer	February 3, 2012
+Lactofen	77501-63-4	cancer	January 1, 1989
+Lasiocarpine	303-34-4	cancer	April 1, 1988
+Lead	---	developmental, female, male	February 27, 1987
+LEAD	7439-92-1		
+LEAD (ALKYL 4+) (SOLNR LEAD ALKYLS)	EDF-199		
+Lead acetate	301-04-2	cancer	January 1, 1988
+Lead and lead compounds	---	cancer	October 1, 1992
+LEAD ARSENATE	7784-40-9		
+LEAD ARSENITE	10031-13-7		
+Lead bis(tetrafluoroborate)	13814-96-5	Toxic for reproduction (Article 57 c)	19-12-2012
+LEAD CHLORIDE	7758-95-4		
+LEAD CHROMATE	7758-97-6		
+Lead chromate molybdate sulphate red (C.I. Pigment Red 104)	12656-85-8	Carcinogenic and toxic for reproduction (articles 57 a and 57 c)	13-1-2010
+LEAD CHROMATE OXIDE	18454-12-1		
+LEAD COMPOUNDS	LCT000		
+Lead cyanamidate	20837-86-9	Toxic for reproduction (Article 57 c)	19-12-2012
+Lead di(acetate)	301-04-2	Toxic for reproduction (Article 57 c);	16-12-2013
+Lead diazide, Lead azide	13424-46-9	Toxic for reproduction (article 57 c),	19-12-2011
+Lead dinitrate	10099-74-8	Toxic for reproduction (Article 57 c)	19-12-2012
+LEAD DIOXIDE	1309-60-0		
+Lead dipicrate	6477-64-1	Toxic for reproduction (article 57 c)	19-12-2011
+LEAD FLUOBORATE	13814-96-5		
+LEAD FLUORIDE	7783-46-2		
+Lead hydrogen arsenate	7784-40-9	Carcinogenic and toxic for reproduction (articles 57 a and 57 c)	28-10-2008
+LEAD II ARSENATE	7645-25-2		
+LEAD IODIDE	10101-63-0		
+Lead monoxide (lead oxide)	1317-36-8	Toxic for reproduction (Article 57 c)	19-12-2012
+LEAD NITRATE	10099-74-8		
+Lead oxide sulfate	12036-76-9	Toxic for reproduction (Article 57 c)	19-12-2012
+Lead phosphate	7446-27-7	cancer	April 1, 1988
+LEAD SILICATE	11120-22-2		
+LEAD STEARATE	7428-48-0		
+Lead styphnate	15245-44-0	Toxic for reproduction (article 57 c)	19-12-2011
+Lead subacetate	1335-32-6	cancer	October 1, 1989
+LEAD SULFATE	7446-14-2		
+LEAD SULFIDE	1314-87-0		
+Lead sulfochromate yellow (C.I. Pigment Yellow 34)	1344-37-2	Carcinogenic and toxic for reproduction (articles 57 a and 57 c))	13-1-2010
+LEAD THIOCYANATE	592-87-0		
+Lead titanium trioxide	12060-00-3	Toxic for reproduction (Article 57 c)	19-12-2012
+Lead titanium zirconium oxide	12626-81-2	Toxic for reproduction (Article 57 c)	19-12-2012
+Lead(II) bis(methanesulfonate)	17570-76-2	Toxic for reproduction (Article 57 c)	18-6-2012
+LEAD(II) OXIDE	1317-36-8		
+LEAD-210	014255-04-0		
+LEAD-MOLYBDENUM CHROMATE	12709-98-7		
+Leather dust	---	cancer	April 29, 2011
+Leuprolide acetate	74381-53-6	developmental, female, male	August 26, 1997
+Levodopa	59-92-7	developmental	January 29, 1999
+Levonorgestrel implants	797-63-7	female	May 15, 1998
+Lindane and other hexachloro-cyclohexane isomers	---	cancer	October 1, 1989
+Linuron	330-55-2	developmental	March 19, 1999
+Lithium carbonate	554-13-2	developmental	January 1, 1991
+Lithium citrate	919-16-4	developmental	January 1, 1991
+Lorazepam	846-49-1	developmental	July 1, 1990
+Lovastatin	75330-75-5	developmental	October 1, 1992
+Lynestrenol	52-76-6	cancer	February 27, 2001
+MALATHION	121-75-5		
+MALEIC ANHYDRIDE	108-31-6		
+Malonaldehyde, sodium salt	24382-04-5	cancer	May 3, 2011
+MALONONITRILE	109-77-3		
+Mancozeb	8018-01-7	cancer	January 1, 1990
+Maneb	12427-38-2	cancer	January 1, 1990
+MANGANESE	7439-96-5		
+MANGANESE COMPOUNDS	MAR500		
+MANGANESE TETROXIDE	1317-35-7		
+Marijuana smoke	---	cancer	June 19, 2009
+M-CRESOL	108-39-4		
+m-Dinitrobenzene	99-65-0	male	July 1, 1990
+Me-A-alpha-C (2-Amino-3-methyl-9H-pyrido[2,3-b]indole)	68006-83-7	cancer	January 1, 1990
+Mebendazole	31431-39-7	developmental	August 20, 1999
+MECHLORETHAMINE	51-75-2		
+MECOPROP	93-65-2		
+Medroxyprogesterone acetate	71-58-9	cancer	January 1, 1990
+Megestrol acetate	595-33-5	cancer	March 28, 2014
+MeIQ (2-Amino-3,4-dimethyl-imidazo[4,5-f]quinoline)	77094-11-2	cancer	October 1, 1994
+MeIQx (2-Amino-3,8-dimethyl-imidazo[4,5-f]quinoxaline)	77500-04-0	cancer	October 1, 1994
+MELAMINE, HEXAMETHYL-	645-05-6		
+Melphalan	148-82-3	cancer	February 27, 1987
+Menotropins	9002-68-0	developmental	April 1, 1990
+Mepanipyrim	110235-47-7	cancer	July 1, 2008
+Meprobamate	57-53-4	developmental	January 1, 1992
+MERCAPTODIMETHUR	2032-65-7		
+Mercaptopurine	6112-76-1	developmental	July 1, 1990
+MERCURIC CHLORIDE	7487-94-7		
+MERCURY	7439-97-6		
+Mercury and mercury compounds	---	developmental	July 1, 1990
+MERCURY COMPOUNDS	EDF-033		
+Merphalan	531-76-0	cancer	April 1, 1988
+MERPHOS	150-50-5		
+Mestranol	72-33-3	cancer	April 1, 1988
+METALS	EDF-035		
+Metam potassium	137-41-7	cancer	December 31, 2010
+METHACRYLONITRILE	126-98-7		
+Methacycline hydrochloride	3963-95-9	developmental	January 1, 1991
+Metham sodium	137-42-8	cancer	November 6, 1998
+METHANAMINE, N-METHYL-N-NITROSO	62-75-9		
+METHANE	74-82-8		
+METHANETHIOL	74-93-1		
+Methanol	67-56-1	developmental	March 16, 2012
+Methazole	20354-26-1	developmental	December 1, 1999
+Methimazole	60-56-0	developmental	July 1, 1990
+Methotrexate	59-05-2	developmental	January 1, 1989
+Methotrexate sodium	15475-56-6	developmental	April 1, 1990
+METHOXONE	94-74-6		
+METHOXONE SODIUM SALT ((4-CHLORO-2-METHYLPGENOXY) ACETATE SODIUM SALT)	3653-48-3		
+Methoxyacetic acid	625-45-6	Toxic for reproduction (Article 57 c)	19-12-2012
+METHOXYCHLOR	72-43-5		
+METHOXYFLURANE	76-38-0		
+METHYL ACRYLATE	96-33-3		
+METHYL BROMIDE	74-83-9		
+Methyl bromide, as a structural fumigant	74-83-9	developmental	January 1, 1993
+Methyl carbamate	598-55-0	cancer	May 15, 1998
+Methyl chloride	74-87-3	developmental	March 10, 2000
+METHYL CHLOROCARBONATE	79-22-1		
+METHYL ETHYL KETONE	78-93-3		
+METHYL HYDRAZINE	60-34-4		
+Methyl iodide	74-88-4	cancer	April 1, 1988
+Methyl isobutyl ketone	108-10-1	cancer	November 4, 2011
+METHYL ISOBUTYL KETONE	0108-10-1		
+Methyl isobutyl ketone (MIBK)	108-10-1	developmental	March 28, 2014
+METHYL ISOCYANATE	624-83-9		
+Methyl isocyanate (MIC)	624-83-9	developmental, female	November 12, 2010
+METHYL ISOTHIOCYANATE	556-61-6		
+Methyl mercury	---	developmental	July 1, 1987
+METHYL METHACRYLATE	80-62-6		
+Methyl methanesulfonate	66-27-3	cancer	April 1, 1988
+Methyl n-butyl ketone	591-78-6	male	August 7, 2009
+METHYL PARATHION	298-00-0		
+METHYL TERT-BUTYL ETHER	1634-04-4		
+Methylazoxymethanol	590-96-5	cancer	April 1, 1988
+Methylazoxymethanol acetate	592-62-1	cancer	April 1, 1988
+METHYLENE BROMIDE	74-95-3		
+METHYLENE CHLORIDE	75-09-2		
+Methyleugenol	93-15-2	cancer	November 16, 2001
+Methylhydrazine and its salts	---	cancer	July 1, 1992
+METHYLMERCURY	022967-92-6		
+Methylmercury compounds	---	cancer	May 1, 1996
+Methyloxirane (Propylene oxide)	75-56-9	Carcinogenic (Article 57a); Mutagenic (Article 57b)	19-12-2012
+Methyltestosterone	58-18-4	developmental	April 1, 1990
+Methylthiouracil	56-04-2	cancer	October 1, 1989
+METHYOXYACETIC ACID	625-45-6		
+Metiram	9006-42-2	cancer	January 1, 1990
+METOLACHLOR	051218-45-2		
+METRIBUZIN	21087-64-9		
+Metronidazole	443-48-1	cancer	January 1, 1988
+MEVINPHOS	7786-34-7		
+Michler's ketone	90-94-8	cancer	January 1, 1988
+Midazolam hydrochloride	59467-96-8	developmental	July 1, 1990
+Minocycline hydrochloride (internal use)	13614-98-7	developmental	January 1, 1992
+Mirex	2385-85-5	cancer	January 1, 1988
+Misoprostol	59122-46-2	developmental	April 1, 1990
+Mitomycin C	50-07-7	cancer	April 1, 1988
+Mitoxantrone hydrochloride	70476-82-3	developmental	July 1, 1990
+M-NITROBENZOIC ACID	121-92-6		
+Molinate	2212-67-1	developmental, female, male	December 11, 2009
+MOLYBDENUM	7439-98-7		
+MOLYBDENUM TRIOXIDE	1313-27-5		
+MON 13900 (furilazole)	121776-33-8	cancer	March 22, 2011
+MON 4660 (dichloroacetyl-1-oxa-4-azaspiro(4,5)-decane)	71526-07-3	cancer	March 22, 2011
+MONOCHLOROPENTAFLUOROETHANE	76-15-3		
+Monocrotaline	315-22-0	cancer	April 1, 1988
+MONURON	150-68-5		
+MOPP (vincristine-prednisone-nitrogen mustard-procarbazine mixture)	113803-47-7	cancer	November 4, 2011
+M-PHENYLENEDIAMINE	108-45-2		
+Mustard Gas	505-60-2	cancer	February 27, 1987
+MX (3-chloro-4-(dichloromethyl) 5-hydroxy-2(5H)-furanone)	77439-76-0	cancer	December 22, 2000
+M-XYLENE	108-38-3		
+Myclobutanil	88671-89-0	developmental, male	April 16, 1999
+N, N-Dimethylacetamide	127-19-5	developmental, male	May 21, 2010
+N,N,N',N'-tetramethyl-4,4'-methylenedianiline (Michlerâ€™s base)	101-61-1	Carcinogenic (Article 57a)	18-6-2012
+N,N’-Diacetylbenzidine	613-35-4	cancer	October 1, 1989
+N,N-Bis(2-chloroethyl)-2-naphthylamine (Chlornapazine)	494-03-1	cancer	February 27, 1987
+N,N-dimethylacetamide	127-19-5	Toxic for reproduction (article 57 c)	19-12-2011
+N,N-DIMETHYLANILINE	121-69-7		
+N,N-DIMETHYLFORMAMIDE	68-12-2		
+N,N'-METHYLENEBISACRYLAMIDE	110-26-9		
+N-[4-(5-Nitro-2-furyl)-2-thiazolyl] acetamide	531-82-8	cancer	April 1, 1988
+Nabam	142-59-6	developmental	March 30, 1999
+Nafarelin acetate	86220-42-0	developmental	April 1, 1990
+Nafenopin	3771-19-5	cancer	April 1, 1988
+NALED	300-76-5		
+NALED	03-76-5		
+Nalidixic acid	389-08-2	cancer	May 15, 1998
+Naphthalene	91-20-3	cancer	April 19, 2002
+N-BUTYL ALCOHOL	71-36-3		
+N-Carboxymethyl-N-nitrosourea	60391-92-6	cancer	January 25, 2002
+Neomycin sulfate (internal use)	1405-10-3	developmental	October 1, 1992
+NEPTUNIUM-237	013994-20-2		
+N-ETHYL-N-NITROSOUREA	759-73-9		
+Netilmicin sulfate	56391-57-2	developmental	July 1, 1990
+N-HEXANE	110-54-3		
+NICKEL	7440-02-0		
+NICKEL (II) CHLORIDE	37211-05-5		
+Nickel (Metallic)	7440-02-0	cancer	October 1, 1989
+Nickel acetate	373-02-4	cancer	October 1, 1989
+Nickel carbonate	3333-67-3	cancer	October 1, 1989
+Nickel carbonyl	13463-39-3	cancer	October 1, 1987
+Nickel compounds	---	cancer	May 7, 2004
+NICKEL COMPOUNDS	NDB000		
+Nickel hydroxide	12054-48-7;12125-56-3	cancer	October 1, 1989
+Nickel oxide	1313-99-1	cancer	October 1, 1989
+Nickel refinery dust from the pyrometallurgical process	---	cancer	October 1, 1987
+Nickel subsulfide	12035-72-2	cancer	October 1, 1987
+Nickelocene	1271-28-9	cancer	October 1, 1989
+Nicotine	54-11-5	developmental	April 1, 1990
+NICOTINE AND SALTS	54-11-5		
+Nifedipine	21829-25-4	developmental, female,male	January 29, 1999
+Nimodipine	66085-59-4	developmental	April 24, 2001
+Niridazole	61-57-4	cancer	April 1, 1988
+Nitrapyrin	1929-82-4	cancer	October 5, 2005
+NITRATE	14797-55-8		
+NITRATE	014797-55-8		
+NITRATE COMPOUNDS	EDF-038		
+NITRIC ACID	7697-37-2		
+Nitrilotriacetic acid	139-13-9	cancer	January 1, 1988
+Nitrilotriacetic acid, trisodium salt monohydrate	18662-53-8	cancer	April 1, 1989
+NITRITE	14797-65-0		
+NITRITE	014797-65-0		
+Nitrobenzene	98-95-3	cancer	August 26, 1997
+NITROFEN	1836-75-5		
+Nitrofen (technical grade)	1836-75-5	cancer	January 1, 1988
+Nitrofurantoin	67-20-9	male	April 1, 1991
+Nitrofurazone	59-87-0	cancer	January 1, 1990
+NITROGEN DIOXIDE	10102-44-0		
+Nitrogen mustard (Mechlorethamine)	51-75-2	cancer	January 1, 1988
+Nitrogen mustard hydrochloride (Mechlorethamine hydrochloride)	55-86-7	cancer	April 1, 1988
+Nitrogen mustard N-oxide	126-85-2	cancer	April 1, 1988
+Nitrogen mustard N-oxide hydrochloride	302-70-5	cancer	April 1, 1988
+NITROGLYCERIN	55-63-0		
+Nitromethane	75-52-5	cancer	May 1, 1997
+Nitrous oxide	10024-97-2	developmental, female	August 1, 2008
+N-METHYL-2-PYRROLIDONE	872-50-4		
+N-methylacetamide	79-16-3	Toxic for reproduction (Article 57 c)	19-12-2012
+N-Methyl-N'-nitro-N-nitrosoguanidine	70-25-7	cancer	April 1, 1988
+N-Methylolacrylamide	924-42-5	cancer	July 1, 1990
+N-Methylpyrrolidone	872-50-4	developmental	June 15, 2001
+N-Nitrosodiethanolamine	1116-54-7	cancer	January 1, 1988
+N-Nitrosodiethylamine	55-18-5	cancer	October 1, 1987
+N-Nitrosodimethylamine	62-75-9	cancer	October 1, 1987
+N-Nitrosodi-n-butylamine	924-16-3	cancer	October 1, 1987
+N-Nitrosodi-n-propylamine	621-64-7	cancer	January 1, 1988
+N-NITROSODI-N-PROPYLAMINE	0621-64-7		
+N-Nitrosodiphenylamine	86-30-6	cancer	April 1, 1988
+N-Nitrosomethylethylamine	10595-95-6	cancer	October 1, 1989
+N-Nitrosomethylvinylamine	4549-40-0	cancer	January 1, 1988
+N-Nitrosomorpholine	59-89-2	cancer	January 1, 1988
+N-Nitroso-N-ethylurea	759-73-9	cancer	October 1, 1987
+N-Nitroso-N-methylurea	684-93-5	cancer	October 1, 1987
+N-Nitroso-N-methylurethane	615-53-2	cancer	April 1, 1988
+N-Nitrosonornicotine	16543-55-8	cancer	January 1, 1988
+N-Nitrosopiperidine	100-75-4	cancer	January 1, 1988
+N-Nitrosopyrrolidine	930-55-2	cancer	October 1, 1987
+N-Nitrososarcosine	13256-22-9	cancer	January 1, 1988
+Norethisterone (Norethindrone)	68-22-4	cancer	October 1, 1989
+Norethisterone (Norethindrone)/Ethinyl estradiol	68-22-4/57-63-6	developmental	April 1, 1990
+Norethisterone (Norethindrone)/Mestranol	68-22-4/72-33-3	developmental	April 1, 1990
+Norethisterone acetate (Norethindrone acetate)	51-98-9	developmental	October 1, 1991
+Norethynodrel	68-23-5	cancer	February 27, 2001
+NORFLURAZON	27314-13-2		
+Norgestrel	6533-00-2	developmental	April 1, 1990
+N-pentyl-isopentylphthalate	776297-69-9	Toxic for reproduction (Article 57 c)	19-12-2012
+o,p’-DDT	789-02-6	developmental, female, male	May 15, 1998
+O,P'-DDT	789-02-6		
+o-Aminoazotoluene	97-56-3	cancer	July 1, 1987
+o-Anisidine	90-04-0	cancer	July 1, 1987
+o-Anisidine hydrochloride	134-29-2	cancer	July 1, 1987
+Ochratoxin A	303-47-9	cancer	July 1, 1990
+O-CRESOL	95-48-7		
+OCTACHLORODIBENZO-P-DIOXIN	3268-87-9		
+OCTACHLORONAPHTHALENE	2234-13-1		
+OCTACHLOROSTYRENE	EDF-151		
+o-Dinitrobenzene	528-29-0	male	July 1, 1990
+Oil Orange SS	2646-17-5	cancer	April 1, 1988
+o-Nitroanisole	91-23-6	cancer	October 1, 1992
+o-Nitrotoluene	88-72-2	cancer	May 15, 1998
+O-PHENYLENEDIAMINE	95-54-5		
+o-Phenylenediamine and its salts	95-54-5	cancer	May 15, 1998
+o-Phenylphenate, sodium	132-27-4	cancer	January 1, 1990
+o-Phenylphenol	90-43-7	cancer	August 4, 2000
+Oral contraceptives, combined	---	cancer	October 1, 1989
+Oral contraceptives, sequential	---	cancer	October 1, 1989
+Orange lead (lead tetroxide)	1314-41-6	Toxic for reproduction (Article 57 c)	19-12-2012
+ORGANIC LEAD COMPOUNDS	EDF-230		
+ORGANOCHLORINE PESTICIDES	EDF-175		
+ORGANOPHOSPHATE PESTICIDES	EDF-163		
+Oryzalin	19044-88-3	cancer	September 12, 2008
+OSMIUM OXIDE OSO4 (T-4)	20816-12-0		
+o-Toluidine	95-53-4	cancer	January 1, 1988
+o-Toluidine hydrochloride	636-21-5	cancer	January 1, 1988
+Oxadiazon	19666-30-9	cancer	July 1, 1991
+OXALIC ACID	144-62-7		
+Oxazepam	604-75-1	cancer	October 1, 1994
+OXYCHLORDANE	027304-13-8		
+Oxydemeton methyl	301-12-2	female, male	November 6, 1998
+OXYDIAZON	19666-30-9		
+OXYFLUORFEN	42874-03-3		
+O-XYLENE	95-47-6		
+Oxymetholone	434-07-1	cancer	January 1, 1988
+Oxytetracycline (internal use)	79-57-2	developmental	January 1, 1991
+Oxytetracycline hydrochloride (internal use)	2058-46-0	developmental	October 1, 1991
+Oxythioquinox (Chinomethionat)	2439-01-2	cancer	August 20, 1999
+OZONE	10028-15-6		
+p,p’-DDT	50-29-3	developmental, female, male	May 15, 1998
+p-a,a,a-Tetrachlorotoluene	5216-25-1	cancer	January 1, 1990
+Paclitaxel	33069-62-4	developmental, female, male	August 26, 1997
+PALLADIUM	2023568		
+Palygorskite fibers (> 5µm in length)	12174-11-7	cancer	December 28, 1999
+p-Aminoazobenzene	60-09-3	cancer	January 1, 1990
+Panfuran S	794-93-4	cancer	January 1, 1988
+P-ANISIDINE	104-94-9		
+PARALDEHYDE	123-63-7		
+Paramethadione	115-67-3	developmental	July 1, 1990
+PARAQUAT	1910-42-5		
+PARATHION	56-38-2		
+p-Chloroaniline	106-47-8	cancer	October 1, 1994
+p-Chloroaniline hydrochloride	20265-96-7	cancer	May 15, 1998
+p-Chloro-o-toluidine	95-69-2	cancer	January 1, 1990
+p-Chloro-o-toluidine, strong acid salts of	---	cancer	May 15, 1998
+P-CHLOROPHENYL ISOCYANATE	104-12-1		
+p-Cresidine	120-71-8	cancer	January 1, 1988
+P-CRESOL	106-44-5		
+p-Dichlorobenzene	106-46-7	cancer	January 1, 1989
+p-Dinitrobenzene	100-25-4	male	July 1, 1990
+PEBULATE	1114-71-2		
+PENDIMETHALIN	40487-42-1		
+Penicillamine	52-67-5	developmental	January 1, 1991
+PENTACHLOROBENZENE	608-93-5		
+PENTACHLOROBENZENE	0608-93-5		
+PENTACHLORODIBENZOFURAN	030402-15-4		
+PENTACHLORODIBENZO-P-DIOXIN	036088-22-9		
+PENTACHLOROETHANE	76-01-7		
+Pentachlorophenol	87-86-5	cancer	January 1, 1990
+Pentacosafluorotridecanoic acid	72629-94-8	vPvB (Article 57 e)	19-12-2012
+Pentadecafluorooctanoic acid (PFOA)	335-67-1	Toxic for reproduction (Article 57 c); <br/>PBT (Article 57 d)	20-6-2013
+PENTAERYTHRITOL TETRANITRATE	78-11-5		
+Pentalead tetraoxide sulphate	12065-90-6	Toxic for reproduction (Article 57 c)	19-12-2012
+PENTAMIDINE	140-64-7		
+Pentazinc chromate octahydroxide	49663-84-5	Carcinogenic (article 57 a)	19-12-2011
+Pentobarbital sodium	57-33-0	developmental	July 1, 1990
+Pentosan polysulfate sodium	---	cancer	April 18, 2014
+Pentostatin	53910-25-1	developmental	September 1, 1996
+PERACETIC ACID	79-21-0		
+PERCHLOROMETHYL MERCAPTAN	594-42-3		
+PERMETHRIN	52645-53-1		
+Phenacemide	63-98-9	developmental	July 1, 1990
+Phenacetin	62-44-2	cancer	October 1, 1989
+PHENANTHRENE	85-01-8		
+Phenazopyridine	94-78-0	cancer	January 1, 1988
+Phenazopyridine hydrochloride	136-40-3	cancer	January 1, 1988
+Phenesterin	3546-10-9	cancer	July 1, 1989
+Phenobarbital	50-06-6	cancer	January 1, 1990
+PHENOL	108-95-2		
+PHENOL	0108-95-2		
+Phenolphthalein	77-09-8	cancer	May 15, 1998
+PHENOTHRIN	26002-80-2		
+Phenoxybenzamine	59-96-1	cancer	April 1, 1988
+Phenoxybenzamine hydrochloride	63-92-3	cancer	April 1, 1988
+Phenprocoumon	435-97-2	developmental	October 1, 1992
+Phenyl glycidyl ether	122-60-1	cancer	October 1, 1990
+Phenylhydrazine and its salts	---	cancer	July 1, 1992
+Phenylphosphine	638-21-1	developmental	August 7, 2009
+PHENYTOIN	57-41-0		
+PhiP(2-Amino-1-methyl-6-phenylimidazol[4,5-b]pyridine)	105650-23-5	cancer	October 1, 1994
+PHORATE	0298-02-2		
+PHOSGENE	75-44-5		
+PHOSPHINE	7803-51-2		
+PHOSPHORUS (YELLOW OR WHITE)	7723-14-0		
+PHOSPHORUS, WHITE	7723-14-0		
+PHTHALATES	EDF-150		
+PHTHALIC ANHYDRIDE	85-44-9		
+PICLORAM	6607		
+Pimozide	2062-78-4	developmental, female	August 20, 1999
+Pioglitazone	111025-46-8	cancer	April 18, 2014
+PIPERONYL BUTOXIDE	51-03-6		
+Pipobroman	54-91-1	developmental	July 1, 1990
+Pirimicarb	23103-98-2	cancer	July 1, 2008
+PIRIMIPHOS METHYL	29232-93-7		
+Pitch, coal tar, high temp.	65996-93-2	Carcinogenic, PBT and vPvB (articles 57a, 57d and 57e)	13-1-2010
+Plicamycin	18378-89-7	developmental	April 1, 1990
+PLUTONIUM	2023631		
+PLUTONIUM-238	013981-16-3		
+PLUTONIUM-239	015117-48-3		
+PLUTONIUM-240	014119-33-6		
+PM 10	EDF-077		
+PM 2.5	EDF-213		
+P-NITROANILINE	100-01-6		
+p-Nitrosodiphenylamine	156-10-5	cancer	January 1, 1988
+POLONIUM-210	013981-52-7		
+Polybrominated biphenyls	---	cancer	January 1, 1988
+POLYBROMINATED BIPHENYLS	PJL335		
+POLYBROMINATED BIPHENYLS	067774-32-7		
+POLYCHLORINATED ALKANES (C10-C13)	EDF-045		
+Polychlorinated biphenyls	---	cancer	October 1, 1989
+POLYCHLORINATED BIPHENYLS	1336-36-3		
+Polychlorinated biphenyls (containing 60 or more percent chlorine by molecular weight)	---	cancer	January 1, 1988
+Polychlorinated dibenzofurans	---	cancer	October 1, 1992
+Polychlorinated dibenzo-p-dioxins	---	cancer	October 1, 1992
+POLYCYCLIC AROMATIC COMPOUNDS	65996-93-2		
+POLYCYCLIC AROMATIC HYDROCARBONS	130498-29-2		
+Polygeenan	53973-98-1	cancer	January 1, 1988
+POLYMERIC MDI	9016-87-9		
+Ponceau 3R	3564-09-8	cancer	April 1, 1988
+Ponceau MX	3761-53-3	cancer	April 1, 1988
+Potassium bromate	7758-01-2	cancer	January 1, 1990
+POTASSIUM BROMATE	2139594		
+Potassium chromate	7789-00-6	Carcinogenic and mutagenic (articles 57 a and 57 b).	18-6-2010
+Potassium dichromate	7778-50-9	Carcinogenic, mutagenic and toxic for reproduction (articles 57 a, 57 b and 57 c)	18-6-2010
+Potassium dimethyldithiocarbamate	128-03-0	developmental	March 30 1999
+Potassium hydroxyoctaoxodizincatedichromate	11103-86-9	Carcinogenic (article 57 a)	19-12-2011
+POTASSIUM N-METHYLDITHIOCARBAMATE	137-41-7		
+POTASSIUM-40	013966--2		
+P-PHENYLENEDIAMINE	106-50-3		
+Pravastatin sodium	81131-70-6	developmental	March 3, 2000
+Prednisolone sodium phosphate	125-02-0	developmental	August 20, 1999
+Primidone	125-33-7	cancer	August 20, 1999
+Procarbazine	671-16-9	cancer	January 1, 1988
+Procarbazine hydrochloride	366-70-1	cancer developmental	January 1, 1988/July 1, 1990
+Procymidone	32809-16-8	cancer	October 1, 1994
+PROFENOFOS	41198-08-7		
+Progesterone	57-83-0	cancer	January 1, 1988
+PROMETRYN	7287-19-6		
+Pronamide	23950-58-5	cancer	May 1, 1996
+Propachlor	1918-16-7	cancer	February 27, 2001
+PROPANE SULTONE	1120-71-4		
+PROPANIL	709-98-8		
+PROPANTHELINE BROMIDE	50-34-0		
+Propargite	2312-35-8	cancer	October 1, 1994
+PROPARGYL ALCOHOL	107-19-7		
+PROPETAMPHOS	31218-83-4		
+PROPICONAZOLE	60207-90-1		
+PROPIONALDEHYDE	123-38-6		
+Propoxur	114-26-1	cancer	August 11, 2006
+PROPYLENE	115-07-1		
+PROPYLENE GLYCOL MONOMETHYL ETHER	107-98-2		
+Propylene glycol mono-t-butyl ether	57018-52-7	cancer	June 11, 2004
+Propylene oxide	75-56-9	cancer	October 1, 1988
+PROPYLENEIMINE	75-55-8		
+Propylthiouracil	51-52-5	cancer	January 1, 1988
+Pulegone	89-82-7	cancer	April 18, 2014
+P-XYLENE	106-42-3		
+P-XYLENE	0106-42-3		
+Pymetrozine	1233112-89-0	cancer	March 22, 2011
+PYRENE	0129--0		
+PYRETHRUM	83-34-7		
+Pyridine	110-86-1	cancer	May 17, 2002
+Pyrimethamine	58-14-0	developmental	January 29, 1999
+Pyrochlore, antimony lead yellow	8012-00-8	Toxic for reproduction (Article 57 c)	19-12-2012
+Quazepam	36735-22-5	developmental	August 26, 1997
+QUINOLINE	91-22-5		
+Quinoline and its strong acid salts	---	cancer	October 24, 1997
+QUINONE	106-51-4		
+QUINTOZENE	82-68-8		
+Quizalofop-ethyl	76578-14-8	male	December 24, 1999
+Radionuclides	---	cancer	July 1, 1989
+RADIUM	7440-14-4		
+RADIUM-226	013982-63-3		
+RADIUM-228	015262-20-1		
+RADON	0143-92-2		
+RADON-220	022481-48-7		
+RADON-222	014859-67-7		
+RDX (Cyclonite)	0121-82-4		
+Reserpine	50-55-5	cancer	October 1, 1989
+Residual (heavy) fuel oils	---	cancer	October 1, 1990
+Resmethrin	10453-86-8	cancer	July 1, 2008
+Retinol/retinyl esters	---	developmental	July 1, 1989
+Ribavirin	36791-04-5	developmental	April 1, 1990
+Riddelliine	23246-96-0	cancer	December 3, 2004
+RIFAMPICIN	13292-46-1		
+Rifampin	13292-46-1	developmental, female	February 27, 2001
+S,S,S-TRIBUTYL PHOSPHOROTRITHIOATE	78-48-8		
+S,S,S-Tributyl phosphorotrithioate (Tribufos, DEF)	78-48-8	cancer	February 25, 2011
+S,S,S-TRIBUTYLTRITHIOPHOSPHATE	78-48-8		
+SACCHARIN	81-07-2		
+Safrole	94-59-7	cancer	January 1, 1988
+SALICYLAZOSULFAPYRIDINE	599-79-1		
+Salted fish, Chinese-style	---	cancer	April 29, 2011
+SEC-BUTYL ALCOHOL	78-92-2		
+Secobarbital sodium	309-43-3	developmental	October 1, 1992
+SELENIUM	7782-49-2		
+SELENIUM COMPOUNDS	SBP500		
+Selenium sulfide	7446-34-6	cancer	October 1, 1989
+Sermorelin acetate	---	developmental	August 20, 1999
+SETHOXYDIM	74051-80-2		
+Shale-oils	68308-34-9	cancer	April 1, 1990
+Silica, crystalline (airborne particles of respirable size)	---	cancer	October 1, 1988
+Silicic acid (H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>), barium salt (1:1), lead-doped <br/> <i> [with lead (Pb) content above the applicable generic concentration limit for â€™toxicity for reproductionâ€™ Repr. 1A (CLP) or category 1 (DSD); the substance is a member of the group entry of lead compounds, with index number 082-001-00-6 in Regulation (EC) No 1272/2008]</i>	68784-75-8	Toxic for reproduction (Article 57 c)	19-12-2012
+Silicic acid, lead salt	11120-22-2	Toxic for reproduction (Article 57 c)	19-12-2012
+SILVER	7440-22-4		
+SILVER COMPOUNDS	SDO000		
+SIMAZINE	122-34-9		
+SODIUM ARSENITE	7784-46-5		
+SODIUM AZIDE	26628-22-8		
+Sodium chromate	3-11-7775	Carcinogenic, mutagenic and toxic for reproduction (articles 57 a, 57 b and 57 c)	18-6-2010
+SODIUM CYANIDE	143-33-9		
+SODIUM DICAMBA	1982-69-0		
+Sodium dichromate	7789-12-0, 10588-01-9	Carcinogenic, mutagenic and toxic for reproduction (articles 57a, 57b and 57c)	28-10-2008
+Sodium dimethyldithiocarbamate	128-04-1	developmental	March 30 1999
+Sodium fluoroacetate	62-74-8	male	November 6, 1998
+SODIUM NITRITE	7632-00-0		
+SODIUM PENTACHLOROPHENATE	131-52-2		
+Soots, tars, and mineral oils (untreated and mildly treated oils and used engine oils)	---	cancer	February 27, 1987
+Spirodiclofen	148477-71-8	cancer	October 8, 2010
+Spironolactone	52-01-7	cancer	May 1, 1997
+Stanozolol	10418-03-8	cancer	May 1, 1997
+Sterigmatocystin	10048-13-2	cancer	April 1, 1988
+Streptomycin sulfate	3810-74-0	developmental	January 1, 1991
+Streptozocin (streptozotocin)	18883-66-4	developmental, female, male	August 20, 1999
+STREPTOZOTOCIN	18883-66-4		
+Streptozotocin (streptozocin)	18883-66-4	cancer	January 1, 1988
+STROBANE	81-50-1		
+Strong inorganic acid mists containing sulfuric acid	---	cancer	March 14, 2003
+Strontium chromate	2-6-7789	Carcinogenic (article 57a)	20-6-2011
+STRONTIUM-90	0198-97-2		
+STRYCHNINE	57-24-9		
+STYRENE	100-42-5		
+STYRENE	01-42-5		
+Styrene oxide	96-09-3	cancer	October 1, 1988
+Sulfallate	95-06-7	cancer	January 1, 1988
+SULFAMETHAZINE	57-68-1		
+Sulfasalazine (salicylazosulfapyridine)	599-79-1	cancer	May 15, 1998
+Sulfur dioxide	7446-09-5	developmental	July 29, 2011
+SULFURIC ACID	7664-93-9		
+Sulfurous acid, lead salt, dibasic	62229-08-7	Toxic for reproduction (Article 57 c)	19-12-2012
+SULFURYL FLUORIDE	2699-79-8		
+Sulindac	38194-50-2	developmental, female	January 29, 1999
+SULPROFOS	35400-43-2		
+Talc containing asbestiform fibers	---	cancer	April 1, 1990
+Tamoxifen and its salts	10540-29-1	cancer	September 1, 1996
+Tamoxifen citrate	54965-24-1	developmental	July 1, 1990
+TEBUTHIURON	34014-18-1		
+TECHNICAL GRADE 2,4 & 2,6 DINITROTOLUENE	EDF-210		
+TELLURIUM	13494-80-9		
+Temazepam	846-50-4	developmental	April 1, 1990
+TEMEPHOS	3383-96-8		
+Teniposide	29767-20-2	developmental	September 1, 1996
+Terbacil	5902-51-2	developmental	May 18, 1999
+Terrazole	2593-15-9	cancer	October 1, 1994
+TERT-BUTYL ALCOHOL	75-65-0		
+Testosterone and its esters	58-22-0	cancer	April 1, 1988
+Testosterone cypionate	58-20-8	developmental	October 1, 1991
+Testosterone enanthate	315-37-7	developmental	April 1, 1990
+Tetraboron disodium heptaoxide, hydrate	12267-73-1	Toxic for reproduction (article 57 c)	18-6-2010
+TETRACHLOROBIPHENYL	026914-33-0		
+TETRACHLORODIBENZO-P-DIOXIN	041903-57-5		
+TETRACHLOROETHANE	025322-20-7		
+TETRACHLOROETHYLENE	127-18-4		
+TETRACHLOROETHYLENE	0127-18-4		
+Tetrachloroethylene (Perchloroethylene)	127-18-4	cancer	April 1, 1988
+TETRACHLOROPHENOL	025167-83-3		
+TETRACHLORVINPHOS	961-11-5		
+Tetracycline (internal use)	60-54-8	developmental	October 1, 1991
+TETRACYCLINE HYDROCHLORIDE	64-75-5		
+Tetracycline hydrochloride (internal use)	64-75-5	developmental	January 1, 1991
+Tetracyclines (internal use)	---	developmental	October 1, 1992
+TETRAETHYLLEAD	78-00-2		
+Tetrafluoroethylene	116-14-3	cancer	May 1, 1997
+Tetralead trioxide sulphate	12202-17-4	Toxic for reproduction (Article 57 c)	19-12-2012
+TETRAMETHRIN	7696-12-0		
+TETRAMETHYL LEAD	75-74-1		
+Tetranitromethane	509-14-8	cancer	July 1, 1990
+Thalidomide	50-35-1	developmental	July 1, 1987
+THALLIUM	7440-28-0		
+THALLIUM COMPOUNDS	TEJ500		
+THEOBROMINE	83-67-0		
+THEOPHYLLINE	58-55-9		
+THIABENDAZOLE	148-79-8		
+Thioacetamide	62-55-5	cancer	January 1, 1988
+THIOBENCARB	28249-77-6		
+THIOCYANATE	0302-04-5		
+Thiodicarb	59669-26-0	cancer	August 20, 1999
+Thioguanine	154-42-7	developmental	July 1, 1990
+THIOPHANATE ETHYL	23564-06-9		
+Thiophanate methyl	23564-05-8	female, male	May 18, 1999
+THIOPHANATE-METHYL	23564-05-8		
+THIOSEMICARBAZIDE	79-19-6		
+Thiouracil	141-90-2	cancer	June 11, 2004
+Thiourea	62-56-6	cancer	January 1, 1988
+THIRAM	137-26-8		
+THORIUM	7440-29-1		
+Thorium dioxide	1314-20-1	cancer	February 27, 1987
+THORIUM-227	015623-47-9		
+THORIUM-228	014274-82-9		
+THORIUM-230	014269-63-7		
+TIN	7440-31-5		
+TITANIUM DIOXIDE	13463-67-7		
+Titanium dioxide (airborne, unbound particles of respirable size)	---	cancer	September 2, 2011
+TITANIUM TETRACHLORIDE	7550-45-0		
+Tobacco smoke	---	cancer	April 1, 1988
+Tobacco smoke (primary)	---	developmental, female, male	April 1, 1988
+TOBACCO SMOKE (PRIMARY)	EDF-073		
+Tobacco, oral use of smokeless products	---	cancer	April 1, 1988
+Tobramycin sulfate	49842-07-1	developmental	July 1, 1990
+Toluene	108-88-3	developmental	January 1, 1991
+TOLUENE	0108-88-3		
+Toluene diisocyanate	26471-62-5	cancer	October 1, 1989
+TOLUENE DIISOCYANATE (MIXED ISOMERS)	26471-62-5		
+TOLUENE-2,4-DIISOCYANATE	584-84-9		
+TOLUENE-2,6-DIISOCYANATE	91-08-7		
+TOXAPHENE	81-35-2		
+Toxaphene (Polychlorinated camphenes)	8001-35-2	cancer	January 1, 1988
+Toxins derived from Fusarium Moniliforme (Fusarium verticillioides)	---	cancer	August 7, 2009
+TRANS-1,3-DICHLOROPROPENE	10061-02-6		
+TRANS-1,4-DICHLORO-2-BUTENE	110-57-6		
+trans-2-[(Dimethylamino)methyl-imino]-5-[2-(5-nitro-2-furyl)vinyl]-1,3,4-oxadiazole	55738-54-0	cancer	January 1, 1988
+TRANS-CHLORDANE	5103-74-2		
+Treosulfan	299-75-2	cancer	February 27, 1987
+Triadimefon	43121-43-3	developmental, female, male	March 30, 1999
+TRIALLATE	2303-17-5		
+Triamterene	396-01-0	cancer	April 18, 2014
+TRIAZIQUONE	68-76-8		
+Triazolam	28911-01-5	developmental	April 1, 1990
+TRIBENURON METHYL	101200-48-0		
+TRIBROMOMETHANE	75-25-2		
+TRIBUTYLTIN FLUORIDE	30593		
+Tributyltin methacrylate	2155-70-6	developmental	December 1, 1999
+TRICHLORFON	52-68-6		
+Trichlormethine (Trimustine hydrochloride)	817-09-4	cancer	January 1, 1992
+Trichloroacetic acid	76-03-9	cancer	September 13, 2013
+TRICHLOROACETYL CHLORIDE	76-02-8		
+TRICHLOROBENZENE	0122-48-1		
+TRICHLOROETHANE	025323-89-1		
+Trichloroethylene	79-01-6	cancer	April 1, 1988
+TRICHLOROFLUOROETHANE	027154-33-2		
+TRICHLOROFLUOROMETHANE	75-69-4		
+TRICLOPYR TRIETHYLAMMONIUM SALT	57213-69-1		
+Tricosafluorododecanoic acid	307-55-1	vPvB (Article 57 e)	19-12-2012
+TRICRESYL PHOSPHATE	1330-78-5		
+Trientine hydrochloride	38260-01-4	developmental	February 27, 2001
+Triethyl arsenate	15606-95-8	Carcinogenic (article 57a)	28-10-2008
+TRIETHYLAMINE	121-44-8		
+TRIETHYLENE GLYCOL DIMETHYL ETHER	112-49-2		
+TRIETHYLENEMELAMINE	51-18-3		
+TRIFLURALIN	1582-09-8		
+Triforine	26644-46-2	developmental	June 18, 1999
+Trilead bis(carbonate)dihydroxide	1319-46-6	Toxic for reproduction (Article 57 c)	19-12-2012
+Trilead diarsenate	3687-31-8	Carcinogenic and toxic for reproduction (articles 57 a and 57 c)	19-12-2011
+Trilead dioxide phosphonate	12141-20-7	Toxic for reproduction (Article 57 c)	19-12-2012
+Trilostane	13647-35-3	developmental	April 1, 1990
+Trimethadione	127-48-0	developmental	January 1, 1991
+Trimethyl phosphate	512-56-1	cancer	May 1, 1996
+Trimetrexate glucuronate	82952-64-5	developmental	August 26, 1997
+TRIORTHOCRESYL PHOSPATE	78-30-8		
+TRIPHENYLTIN CHLORIDE	639-58-7		
+Triphenyltin hydroxide	76-87-9	cancer	July 1, 1992
+Tris(1,3-dichloro-2-propyl) phosphate (TDCPP)	13674-87-8	cancer	October 28, 2011
+Tris(1-aziridinyl)phosphine sulfide (Thiotepa)	52-24-4	cancer	January 1, 1988
+TRIS(2,3-DIBROMOPROPYL) PHOSPHATE	126-72-7		
+Tris(2,3-dibromopropyl)phosphate	126-72-7	cancer	January 1, 1988
+Tris(2-chloroethyl) phosphate	115-96-8	cancer	April 1, 1992
+Tris(2-chloroethyl)phosphate	115-96-8	Toxic for reproduction (article 57c)	13-1-2010
+Trixylyl phosphate	25155-23-1	Toxic for reproduction (Article 57 c);	16-12-2013
+Trp-P-1 (Tryptophan-P-1)	62450-06-0	cancer	April 1, 1988
+Trp-P-2 (Tryptophan-P-2)	62450-07-1	cancer	April 1, 1988
+TRYPAN BLUE	72-57-1		
+Trypan blue (commercial grade)	72-57-1	cancer	October 1, 1989
+TUNGSTEN METAL	7440-33-7		
+Unleaded gasoline (wholly vaporized)	---	cancer	April 1, 1988
+Uracil mustard	66-75-1	cancer, developmental, female, male	April 1, 1988/January 1, 1992
+URANIUM	7440-61-1		
+URANIUM-233	013968-55-3		
+URANIUM-234	013966-29-5		
+URANIUM-235	015117-96-1		
+URETHANE	51-79-6		
+Urethane (Ethyl carbamate)	51-79-6	cancer, developmental	January 1, 1988/October 1, 1994
+Urofollitropin	97048-13-0	developmental	April 1, 1990
+Valproate (Valproic acid)	99-66-1	developmental	July 1, 1987
+VANADIUM	7440-62-2		
+VANADIUM COMPOUNDS	VCZ000		
+VANADIUM OXIDE (5)	1314-62-1		
+Vanadium pentoxide (orthorhombic crystalline form)	1314-62-1	cancer	February 11, 2005
+Vinblastine sulfate Vinclozolin	143-67-9/50471-44-8	developmental, cancer, developmental	July 1, 1990/August 20, 1999/May 15, 1998
+VINCLOZOLIN	50471-44-8		
+Vincristine sulfate	2068-78-2	developmental	July 1, 1990
+VINYL ACETATE	108-05-4		
+Vinyl bromide	593-60-2	cancer	October 1, 1988
+Vinyl chloride	75-01-4	cancer	February 27, 1987
+Vinyl cyclohexene dioxide (4-Vinyl-1-cyclohexene diepoxide)	106-87-6	female, male	August 1, 2008
+Vinyl fluoride	75-02-5	cancer	May 1, 1997
+Vinyl trichloride (1,1,2-Trichloroethane)	79-00-5	cancer	October 1, 1990
+VISIBILITY REDUCING PARTICULATES	EDF-214		
+VOLATILE ORGANIC COMPOUNDS	EDF-111		
+Warfarin	81-81-2	developmental	July 1, 1987
+WARFARIN AND SALTS	81-81-2		
+WINTERGREEN OIL	119-36-8		
+Wood dust	---	cancer	December 18, 2009
+XYLENE (MIXED ISOMERS)	1330-20-7		
+XYLENES, TOTAL	1330-20-7		
+YHEXACHLOROCYCLOHEXANE, GAMMA-	58-89-9		
+Zalcitabine	7481-89-2	cancer	August 7, 2009
+ZEARALENONE	17924-92-4		
+Zidovudine (AZT)	30516-87-1	cancer	December 18, 2009
+Zileuton	111406-87-2	cancer, developmental, female	December 22, 2000
+ZINC	7440-66-6		
+ZINC CHLORIDE FUME	7646-85-7		
+ZINC COMPOUNDS	ZFS000		
+ZINC OXIDE	1314-13-2		
+ZINEB	12122-67-7		
+Zirconia Aluminosilicate Refractory Ceramic Fibres<i> are fibres covered by index number 650-017-00-8 in Annex VI, part 3, table 3.1 of Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, and fulfil the three following conditions: a) oxides of aluminium, silicon and zirconium are the main components present (in the fibres) within variable concentration ranges b) fibres have a length weighted geometric mean diameter less two standard geometric errors of 6 or less micrometres (Âµm). c) alkaline oxide and alkali earth oxide (Na2O+K2O+CaO+MgO+BaO) content less or equal to 18% by weight</i>	-	Carcinogenic (article 57 a)	19-12-2011
+?-Methyl styrene (alpha-Methylstyrene)	98-83-9	cancer	November 2, 2012

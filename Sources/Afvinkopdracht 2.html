@@ -1,0 +1,14 @@
+<%
+from mod_python import apache
+%>
+<html> 
+<head></head>
+<body>
+<%
+def index(req):
+        req.content_type = 'text/html'
+        req.write("hello world")
+        return apache.OK
+%>
+</body>
+</html>

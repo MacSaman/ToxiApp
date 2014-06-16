@@ -34,21 +34,28 @@
 	</div>	
 	<div class="main" role="main">
 		<h2>Pubmed</h2>
-		<p id="demo">Een tool voor het doorzoeken van de wettenschappelijke artikelen.</p>
-
-
-<!-- <script>
-document.write(Date());
-</script> -->
+		<p id="demo">A search tool for scientific articles</p>
 
 		<article class="article"> Hier kan er naar Pubmed verwezen worden. </article> <!--belangrijkste tekstgedeelte, ook voor google --> 
-		<aside class="aside">
-			<h2>  </h2>
-			<p>  </p>
-			<p> </p>
-			<p>  </p> 
+				
+		<form name = "zoekinput" action="pubmed.html" method="get">
+			Search for articles in pubmed: <input type="text" name="Term">
+			<input type="submit" value="submit">
+		</form>
+				<br>
+				<table border="1" style="width:700px">
+		<tr>
+		  <th>Compound</th> 
+		  <th>Name article</th>
+		  <th>pubmed ID</th>
+		  <th>Authors	</th>
+		  <th>Abstract</th>
+		</tr>
+		<tr>
+		</tr>
+		</table>
+		<br>
 
-		</aside> <!--reclame, submenu's, "zie ook ...."-->
 	</div>
 	<footer class="footer">Website van Bioinformatica BI2 Groep 2 2014 &copy; All rights reserved.
 	</footer>

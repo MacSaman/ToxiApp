@@ -15,64 +15,58 @@ import os
 import mysql.connector
 
 def main():
-        Stoffen = Bestand_lezen() #Functie aanroepen om het bestand te lezen. Hier wordt de variabele Stoffen aan meegegeven. 
+    Zoeken()
 
-def Bestand_lezen():
-        nieuwe_lijst = []
-        bestand = open("Stoffenlijst.txt").readlines()
-        for line in bestand:
-            regel = line.split("\t")
-            lijst = [regel[0].lower()]
-            for i in lijst:
-                if i not in nieuwe_lijst:
-                    nieuwe_lijst.append(i)
-        for i in nieuwe_lijst:
-            Zoeken(i)
-##            stof_invoeren(i, regel[1])
-        
-def Zoeken(Stoffen):
+def Zoeken():
     try:
         conn = mysql.connector.connect(host = "127.0.0.1",
                                        user = "bi2_pg2",
                                        password = "blaat1234",
                                        db="bi2_pg2")
+        print("Er is verbinding met de database")
         
         Entrez.email = 'A.N.Other@example.com'
         MAX_COUNT = 20
-        
-        h = Entrez.esearch(db='pubmed', retmax=MAX_COUNT, term=Stoffen)
+        Zoekwoord = raw_input("Vul hier uw stof in: ")
+     
+        h = Entrez.esearch(db='pubmed', retmax=MAX_COUNT, term=Zoekwoord)
         result = Entrez.read(h)
-        
-        print('Total number of publications containing {0}: {1}'.format(Stoffen, result['Count']))
+        print('Total number of publications containing {0}: {1}'.format(Zoekwoord, result['Count']))
         ids = result['IdList']
-##        if len(ids) == 0:
-##            pass
-        
+
         h = Entrez.efetch(db='pubmed', id=ids, rettype='medline', retmode='text')
         records = Medline.parse(h)
 
         search_results = Entrez.read(Entrez.esearch(db="pubmed",
-                                                term=Stoffen,
+                                                term=Zoekwoord,
                                                 reldate=365, datetype="pdat",
                                                 usehistory="y"))
 
         count = int(search_results["Count"])
 
         cursor = conn.cursor ()
+        authors = []
         for record in records:
             journal = record.get("TA", "?")
             datum = record.get("DA", "?")
             titel = record.get("TI", "?")
             abstract = record.get("AB", "?")
             Pubmed_ID = record.get("PMID", "?")
-            
+
+##            au = record.get('AU', '?')
+##            for a in au: 
+##                if a not in authors:
+##                    authors.append(a)
+##                authors.sort()
+##                
             add_artikel = ("INSERT INTO Artikel"
                        "(Journal, Datum, Titel, Abstract, Pubmed_ID)"
                        "VALUES(%s, %s, %s, %s, %s)")
             
             data_artikel = (str(journal),str(datum),str(titel),str(abstract),str(Pubmed_ID))
+##            data_auteurs = (str(au),str(au),str(pubmed_id))
             cursor.execute(add_artikel, data_artikel)
-            
+##            cursor.execute(add_auteurs, data_auteurs)
         conn.commit()
         cursor.close()
         conn.close()
@@ -80,26 +74,3 @@ def Zoeken(Stoffen):
 
     except UnicodeEncodeError:
           print("UnicodeEncodeError")
-##    except mysql.connector.errors.IntegrityError:
-##        continue
-        
-
-def stof_invoeren(Stof, id_nr):
-    conn = mysql.connector.connect(host = "127.0.0.1",
-                                       user = "bi2_pg2",
-                                       password = "blaat1234",
-                                       db="bi2_pg2")
-    cursor = conn.cursor ()
-    
-    add_stof = ("INSERT INTO Stof"
-                       "(Stof_id, Naam)"
-                       "VALUES(%s, %s)")
-     
-    data_stof = (str(id_nr),str(Stof))
-    cursor.execute(add_stof, data_stof)
-    conn.commit()
-    cursor.close()
-    conn.close()
-    print("Stof ingevoerd")
-    
-main()

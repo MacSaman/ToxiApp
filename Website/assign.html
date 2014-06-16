@@ -34,7 +34,7 @@
 	</div>	
 	<div class="main" role="main">
 		<h2>Assignments</h2>
-		<p id="demo">Een tool voor het doorzoeken van de wettenschappelijke artikelen.</p>
+		<p id="demo">A search tool for scientific articles</p>
 
 
 <!-- <script>
@@ -42,11 +42,45 @@ document.write(Date());
 </script> -->
 
 		<article class="article"> Dit gedeelte kun je gebruiken om je weektaken te testen. Of andere dingen te testen.  </article> <!--belangrijkste tekstgedeelte, ook voor google --> 
+		<table border="1" style="width:700px">
+		<tr>
+		<th>Organisme</th>
+		<th>Compound</th> 
+		<th>Naam artikel</th>
+		<th>pubmed ID</th>
+		<th>Auteurs</th>
+		<th>Abstract</th>
+		</tr>
+		<tr>
+		<td>C. elegans</td>
+		<td>Zinc</td> 
+		<td>Zinc in C. elegans</td>
+		<td>123456</td> 
+		<td>Jan-Peter Balkenende</td> 
+		<td>Bladiebladieblablaaaa</td> 
+		</tr>
+		</table>
+		<form name="zoekTerm" method="get">
+			<input type="text" id='zoekbalk' name="search" value = "">
+			<input id = "clickMe" type="submit" value="Search">
+		</form>
+
+			<% import sys
+			sys.path.append('/home/bi2_pg2/public_html/Saman') # hier geef je het pad aan op             
+			#de  server waar het .py #bestand zich bevind
+			zoekTerm = form["search"]  #”search” is de naam van de zoekbalk/textbalk
+
+			import searchOrgCom # hiermeer importer je het .py bestand dat je wil openen
+
+			searchOrgCom.index(zoekTerm)  #hiermee roep je van het .py bestand de index functie aan met              
+			#parameter
+
+			%>	
 		<aside class="aside">
-			<h2> Tips & Tricks </h2>
-			<p> Hoe met je zoeken? </p>
-			<p> - Het is heel erg belangrijk om de juiste zoektermen in te vullen. </p>
-			<p> - Daarnaast is het heel erg belangrijk om het juiste organisme in te voeren. </p> 
+			<h2></h2>
+			<p></p>
+			<p></p>
+			<p></p> 
 
 		</aside> <!--reclame, submenu's, "zie ook ...."-->
 	</div>
